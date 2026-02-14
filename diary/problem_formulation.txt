@@ -1,1 +1,4 @@
+====================
+PROBLEM FORMULATION
+====================
 This project investigates which observable characteristics of humanitarian crises explain variation in international media attention between 2015 and 2024. Using measurable indicators including article volume, sentiment proxy (tone), coverage duration, source-country distribution, and crisis-level attributes such as fatalities and displacement, the study identifies which crisis characteristics are associated with higher media intensity.
