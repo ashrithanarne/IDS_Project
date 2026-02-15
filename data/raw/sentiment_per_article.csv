@@ -1,0 +1,431 @@
+entity,sentiment,crisis_name,mentions_per_article,raw_count,outlet
+Putin,negative,Ukraine,0.4108527132,106,USA Today
+Putin,neutral,Ukraine,0.0503875969,13,USA Today
+Putin,positive,Ukraine,0.003875969,1,USA Today
+Zelensky,positive,Ukraine,0.2131782946,55,USA Today
+Zelensky,neutral,Ukraine,0.0775193798,20,USA Today
+Zelensky,negative,Ukraine,0.003875969,1,USA Today
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.1838235294,75,USA Today
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.112745098,46,USA Today
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0245098039,10,USA Today
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.6004901961,245,USA Today
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.1078431373,44,USA Today
+Putin,negative,Ukraine,0.4387608069,609,CNN
+Putin,neutral,Ukraine,0.0958213256,133,CNN
+Putin,positive,Ukraine,0.0014409222,2,CNN
+Zelensky,positive,Ukraine,0.3263688761,453,CNN
+Zelensky,neutral,Ukraine,0.1116714697,155,CNN
+Zelensky,negative,Ukraine,0.0050432277,7,CNN
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.297474275,318,CNN
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.165575304,177,CNN
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0159027128,17,CNN
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.6651075772,711,CNN
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.088868101,95,CNN
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0028063611,3,CNN
+Putin,negative,Ukraine,0.3366336634,170,The Guardian
+Putin,neutral,Ukraine,0.0910891089,46,The Guardian
+Zelensky,positive,Ukraine,0.196039604,99,The Guardian
+Zelensky,neutral,Ukraine,0.095049505,48,The Guardian
+Zelensky,negative,Ukraine,0.0079207921,4,The Guardian
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.2554002541,402,The Guardian
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.1709021601,269,The Guardian
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0165184244,26,The Guardian
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.6073697586,956,The Guardian
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.1810673443,285,The Guardian
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0025412961,4,The Guardian
+Putin,neutral,Ukraine,0.25,22,RT
+Putin,positive,Ukraine,0.0568181818,5,RT
+Putin,negative,Ukraine,0.0454545455,4,RT
+Zelensky,neutral,Ukraine,0.1931818182,17,RT
+Zelensky,negative,Ukraine,0.1818181818,16,RT
+Zelensky,positive,Ukraine,0.0568181818,5,RT
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.1549295775,22,RT
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0633802817,9,RT
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.014084507,2,RT
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.2394366197,34,RT
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.2112676056,30,RT
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0352112676,5,RT
+Putin,negative,Ukraine,0.3210332103,87,CBC (Canadian Broadcasting Corporation)
+Putin,neutral,Ukraine,0.0627306273,17,CBC (Canadian Broadcasting Corporation)
+Zelensky,positive,Ukraine,0.1771217712,48,CBC (Canadian Broadcasting Corporation)
+Zelensky,neutral,Ukraine,0.1143911439,31,CBC (Canadian Broadcasting Corporation)
+Zelensky,negative,Ukraine,0.0073800738,2,CBC (Canadian Broadcasting Corporation)
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.1910519952,158,CBC (Canadian Broadcasting Corporation)
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.1051995163,87,CBC (Canadian Broadcasting Corporation)
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0072551391,6,CBC (Canadian Broadcasting Corporation)
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.6275695284,519,CBC (Canadian Broadcasting Corporation)
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.1426844015,118,CBC (Canadian Broadcasting Corporation)
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0024183797,2,CBC (Canadian Broadcasting Corporation)
+Putin,negative,Ukraine,0.3712480253,470,Al Jazeera
+Putin,neutral,Ukraine,0.144549763,183,Al Jazeera
+Putin,positive,Ukraine,0.0055292259,7,Al Jazeera
+Zelensky,positive,Ukraine,0.2685624013,340,Al Jazeera
+Zelensky,neutral,Ukraine,0.1358609795,172,Al Jazeera
+Zelensky,negative,Ukraine,0.0063191153,8,Al Jazeera
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.1134453782,162,Al Jazeera
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.1036414566,148,Al Jazeera
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0084033613,12,Al Jazeera
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.3291316527,470,Al Jazeera
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.2016806723,288,Al Jazeera
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0091036415,13,Al Jazeera
+Putin,negative,Ukraine,0.7176470588,427,The Sun
+Putin,neutral,Ukraine,0.0336134454,20,The Sun
+Putin,positive,Ukraine,0.0016806723,1,The Sun
+Zelensky,positive,Ukraine,0.218487395,130,The Sun
+Zelensky,neutral,Ukraine,0.0705882353,42,The Sun
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.2389210019,124,The Sun
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0500963391,26,The Sun
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0462427746,24,The Sun
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.7341040462,381,The Sun
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.0250481696,13,The Sun
+Putin,negative,Ukraine,0.4214285714,59,yahoo
+Putin,neutral,Ukraine,0.0714285714,10,yahoo
+Zelensky,positive,Ukraine,0.2,28,yahoo
+Zelensky,neutral,Ukraine,0.0785714286,11,yahoo
+Zelensky,negative,Ukraine,0.0071428571,1,yahoo
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.1939058172,140,yahoo
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0664819945,48,yahoo
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0346260388,25,yahoo
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.4293628809,310,yahoo
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.1468144044,106,yahoo
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0055401662,4,yahoo
+Putin,negative,Ukraine,0.2441860465,21,Business Insider
+Putin,neutral,Ukraine,0.1162790698,10,Business Insider
+Zelensky,positive,Ukraine,0.1046511628,9,Business Insider
+Zelensky,neutral,Ukraine,0.0930232558,8,Business Insider
+Zelensky,negative,Ukraine,0.011627907,1,Business Insider
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.1294117647,22,Business Insider
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0352941176,6,Business Insider
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0058823529,1,Business Insider
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.6705882353,114,Business Insider
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.0941176471,16,Business Insider
+Putin,negative,Ukraine,0.3695090439,286,Fox News
+Putin,neutral,Ukraine,0.0865633075,67,Fox News
+Putin,positive,Ukraine,0.0025839793,2,Fox News
+Zelensky,positive,Ukraine,0.2105943152,163,Fox News
+Zelensky,neutral,Ukraine,0.1007751938,78,Fox News
+Zelensky,negative,Ukraine,0.0180878553,14,Fox News
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.1749408983,148,Fox News
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0661938534,56,Fox News
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0307328605,26,Fox News
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.7056737589,597,Fox News
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.0212765957,18,Fox News
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0070921986,6,Fox News
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.3333333333,2,Radio Times
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.0869565217,2,CTV News
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0434782609,1,CTV News
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.1739130435,4,CTV News
+Putin,negative,Ukraine,0.5333333333,8,GB News
+Putin,neutral,Ukraine,0.1333333333,2,GB News
+Zelensky,neutral,Ukraine,0.1333333333,2,GB News
+Zelensky,positive,Ukraine,0.0666666667,1,GB News
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0117647059,1,GB News
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.0117647059,1,GB News
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.3882352941,33,GB News
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0352941176,3,GB News
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.0352941176,3,GB News
+Putin,negative,Ukraine,0.2,1,IRNA (Islamic Iranian News Agency)
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.1290322581,12,IRNA (Islamic Iranian News Agency)
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.0537634409,5,IRNA (Islamic Iranian News Agency)
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.1612903226,15,IRNA (Islamic Iranian News Agency)
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.1397849462,13,IRNA (Islamic Iranian News Agency)
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.0322580645,3,IRNA (Islamic Iranian News Agency)
+Putin,negative,Ukraine,0.0909090909,1,Birmigham Live
+Zelensky,neutral,Ukraine,0.0909090909,1,Birmigham Live
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.3214285714,9,Birmigham Live
+Putin,negative,Ukraine,0.4,2,Channel 4
+Zelensky,positive,Ukraine,0.6,3,Channel 4
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.2857142857,6,Channel 4
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.380952381,8,Channel 4
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.2380952381,5,Channel 4
+Putin,negative,Ukraine,0.2941176471,5,Buzzfeed
+Zelensky,positive,Ukraine,0.1764705882,3,Buzzfeed
+Zelensky,neutral,Ukraine,0.0588235294,1,Buzzfeed
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.0697674419,6,Buzzfeed
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.1046511628,9,Buzzfeed
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.023255814,2,Buzzfeed
+Putin,negative,Ukraine,0.075,3,Manchester Evening News
+Zelensky,neutral,Ukraine,0.025,1,Manchester Evening News
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.0181818182,1,Manchester Evening News
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0181818182,1,Manchester Evening News
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.6,33,Manchester Evening News
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.1272727273,7,Manchester Evening News
+Putin,negative,Ukraine,0.3939393939,26,News.com.au
+Putin,neutral,Ukraine,0.0909090909,6,News.com.au
+Zelensky,positive,Ukraine,0.2272727273,15,News.com.au
+Zelensky,neutral,Ukraine,0.1212121212,8,News.com.au
+Zelensky,negative,Ukraine,0.0151515152,1,News.com.au
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.0431654676,6,News.com.au
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0143884892,2,News.com.au
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0071942446,1,News.com.au
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.6043165468,84,News.com.au
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.0503597122,7,News.com.au
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0071942446,1,News.com.au
+Putin,negative,Ukraine,0.4157303371,37,Daily Record
+Zelensky,positive,Ukraine,0.0561797753,5,Daily Record
+Zelensky,neutral,Ukraine,0.0337078652,3,Daily Record
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.0344827586,4,Daily Record
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0172413793,2,Daily Record
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.2155172414,25,Daily Record
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.025862069,3,Daily Record
+Putin,neutral,Ukraine,0.5,3,Reuters
+Putin,negative,Ukraine,0.1666666667,1,Reuters
+Zelensky,neutral,Ukraine,0.5,3,Reuters
+Zelensky,positive,Ukraine,0.3333333333,2,Reuters
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.4285714286,6,Reuters
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.8571428571,12,Reuters
+Putin,negative,Ukraine,0.4074074074,11,Sydney Morning Herald 
+Putin,neutral,Ukraine,0.1111111111,3,Sydney Morning Herald 
+Zelensky,positive,Ukraine,0.2592592593,7,Sydney Morning Herald 
+Zelensky,neutral,Ukraine,0.0740740741,2,Sydney Morning Herald 
+Zelensky,negative,Ukraine,0.037037037,1,Sydney Morning Herald 
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.1351351351,15,Sydney Morning Herald 
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.1351351351,15,Sydney Morning Herald 
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.5855855856,65,Sydney Morning Herald 
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.0630630631,7,Sydney Morning Herald 
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.009009009,1,Sydney Morning Herald 
+Putin,negative,Ukraine,0.5581395349,240,CNBC
+Putin,neutral,Ukraine,0.1604651163,69,CNBC
+Putin,positive,Ukraine,0.0023255814,1,CNBC
+Zelensky,positive,Ukraine,0.5046511628,217,CNBC
+Zelensky,neutral,Ukraine,0.1255813953,54,CNBC
+Zelensky,negative,Ukraine,0.0069767442,3,CNBC
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.3184079602,64,CNBC
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0646766169,13,CNBC
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0149253731,3,CNBC
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.6019900498,121,CNBC
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.1243781095,25,CNBC
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0049751244,1,CNBC
+Putin,negative,Ukraine,0.1984732824,26,ITV
+Putin,neutral,Ukraine,0.0916030534,12,ITV
+Putin,positive,Ukraine,0.0076335878,1,ITV
+Zelensky,positive,Ukraine,0.0687022901,9,ITV
+Zelensky,neutral,Ukraine,0.0381679389,5,ITV
+Zelensky,negative,Ukraine,0.0076335878,1,ITV
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.1166666667,28,ITV
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0458333333,11,ITV
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0083333333,2,ITV
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.4458333333,107,ITV
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.0833333333,20,ITV
+Putin,negative,Ukraine,0.3773364486,323,ABC News
+Putin,neutral,Ukraine,0.101635514,87,ABC News
+Putin,positive,Ukraine,0.0023364486,2,ABC News
+Zelensky,positive,Ukraine,0.2137850467,183,ABC News
+Zelensky,neutral,Ukraine,0.1320093458,113,ABC News
+Zelensky,negative,Ukraine,0.0070093458,6,ABC News
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.2121428571,297,ABC News
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0542857143,76,ABC News
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.02,28,ABC News
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.5871428571,822,ABC News
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.0985714286,138,ABC News
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0014285714,2,ABC News
+Putin,negative,Ukraine,0.1860465116,56,Forbes
+Putin,neutral,Ukraine,0.0531561462,16,Forbes
+Putin,positive,Ukraine,0.0066445183,2,Forbes
+Zelensky,neutral,Ukraine,0.0897009967,27,Forbes
+Zelensky,positive,Ukraine,0.0465116279,14,Forbes
+Zelensky,negative,Ukraine,0.0033222591,1,Forbes
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.1,14,Forbes
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.05,7,Forbes
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0071428571,1,Forbes
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.5214285714,73,Forbes
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.1357142857,19,Forbes
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0071428571,1,Forbes
+Putin,negative,Ukraine,0.523415978,380,Metro
+Putin,neutral,Ukraine,0.0812672176,59,Metro
+Putin,positive,Ukraine,0.0027548209,2,Metro
+Zelensky,positive,Ukraine,0.1625344353,118,Metro
+Zelensky,neutral,Ukraine,0.0619834711,45,Metro
+Zelensky,negative,Ukraine,0.0041322314,3,Metro
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.0738461538,24,Metro
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0369230769,12,Metro
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0123076923,4,Metro
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.4676923077,152,Metro
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.0892307692,29,Metro
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0030769231,1,Metro
+Putin,negative,Ukraine,0.4936708861,39,The Globe and Mail
+Putin,neutral,Ukraine,0.0506329114,4,The Globe and Mail
+Zelensky,positive,Ukraine,0.2911392405,23,The Globe and Mail
+Zelensky,neutral,Ukraine,0.0759493671,6,The Globe and Mail
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.2916666667,119,The Globe and Mail
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.1176470588,48,The Globe and Mail
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0196078431,8,The Globe and Mail
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.6544117647,267,The Globe and Mail
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.137254902,56,The Globe and Mail
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0024509804,1,The Globe and Mail
+Putin,negative,Ukraine,0.4125560538,92,Mirror
+Putin,neutral,Ukraine,0.0762331839,17,Mirror
+Putin,positive,Ukraine,0.0089686099,2,Mirror
+Zelensky,positive,Ukraine,0.067264574,15,Mirror
+Zelensky,neutral,Ukraine,0.0448430493,10,Mirror
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.1405750799,44,Mirror
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0287539936,9,Mirror
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0127795527,4,Mirror
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.4696485623,147,Mirror
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.0766773163,24,Mirror
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0095846645,3,Mirror
+Putin,negative,Ukraine,0.6180904523,123,Daily Express
+Putin,neutral,Ukraine,0.0603015075,12,Daily Express
+Putin,positive,Ukraine,0.0100502513,2,Daily Express
+Zelensky,positive,Ukraine,0.2613065327,52,Daily Express
+Zelensky,neutral,Ukraine,0.0904522613,18,Daily Express
+Zelensky,negative,Ukraine,0.0100502513,2,Daily Express
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.1362007168,38,Daily Express
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0250896057,7,Daily Express
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.017921147,5,Daily Express
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.476702509,133,Daily Express
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.0537634409,15,Daily Express
+Putin,negative,Ukraine,0.4513381995,371,The Telegraph
+Putin,neutral,Ukraine,0.1216545012,100,The Telegraph
+Putin,positive,Ukraine,0.0072992701,6,The Telegraph
+Zelensky,positive,Ukraine,0.2214111922,182,The Telegraph
+Zelensky,neutral,Ukraine,0.1386861314,114,The Telegraph
+Zelensky,negative,Ukraine,0.0158150852,13,The Telegraph
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.2018779343,129,The Telegraph
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0876369327,56,The Telegraph
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0297339593,19,The Telegraph
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.5946791862,380,The Telegraph
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.0782472613,50,The Telegraph
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0015649452,1,The Telegraph
+Putin,negative,Ukraine,0.4887892377,109,The Evening Standard
+Putin,neutral,Ukraine,0.1076233184,24,The Evening Standard
+Putin,positive,Ukraine,0.0044843049,1,The Evening Standard
+Zelensky,positive,Ukraine,0.1883408072,42,The Evening Standard
+Zelensky,neutral,Ukraine,0.0807174888,18,The Evening Standard
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.1111111111,48,The Evening Standard
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0648148148,28,The Evening Standard
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0092592593,4,The Evening Standard
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.5717592593,247,The Evening Standard
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.0601851852,26,The Evening Standard
+Putin,negative,Ukraine,0.328990228,202,NBC News
+Putin,neutral,Ukraine,0.0912052117,56,NBC News
+Putin,positive,Ukraine,0.0081433225,5,NBC News
+Zelensky,positive,Ukraine,0.2263843648,139,NBC News
+Zelensky,neutral,Ukraine,0.1237785016,76,NBC News
+Zelensky,negative,Ukraine,0.0048859935,3,NBC News
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.2264150943,228,NBC News
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.1012909633,102,NBC News
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0268123138,27,NBC News
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.498510427,502,NBC News
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.1231380338,124,NBC News
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.002979146,3,NBC News
+Putin,negative,Ukraine,0.2067946824,140,CBS News
+Putin,neutral,Ukraine,0.0531757755,36,CBS News
+Putin,positive,Ukraine,0.0059084195,4,CBS News
+Zelensky,positive,Ukraine,0.1004431315,68,CBS News
+Zelensky,neutral,Ukraine,0.059084195,40,CBS News
+Zelensky,negative,Ukraine,0.0103397341,7,CBS News
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.1392978482,123,CBS News
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0396375991,35,CBS News
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0079275198,7,CBS News
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.3850509626,340,CBS News
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.1540203851,136,CBS News
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0011325028,1,CBS News
+Putin,negative,Ukraine,0.3059777102,302,Sky News
+Putin,neutral,Ukraine,0.0759878419,75,Sky News
+Putin,positive,Ukraine,0.0060790274,6,Sky News
+Zelensky,positive,Ukraine,0.3100303951,306,Sky News
+Zelensky,neutral,Ukraine,0.0962512665,95,Sky News
+Zelensky,negative,Ukraine,0.0050658561,5,Sky News
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.0955473098,103,Sky News
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0380333952,41,Sky News
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0148423006,16,Sky News
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.3701298701,399,Sky News
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.1085343228,117,Sky News
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0046382189,5,Sky News
+Putin,negative,Ukraine,0.4130052724,235,New York Post
+Putin,neutral,Ukraine,0.0808435852,46,New York Post
+Putin,positive,Ukraine,0.0052724077,3,New York Post
+Zelensky,positive,Ukraine,0.1985940246,113,New York Post
+Zelensky,neutral,Ukraine,0.1054481547,60,New York Post
+Zelensky,negative,Ukraine,0.0017574692,1,New York Post
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.1392670157,133,New York Post
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0554973822,53,New York Post
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.032460733,31,New York Post
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.8293193717,792,New York Post
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.0366492147,35,New York Post
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0104712042,10,New York Post
+Putin,negative,Ukraine,0.5166889186,387,The Independent
+Putin,neutral,Ukraine,0.08811749,66,The Independent
+Putin,positive,Ukraine,0.002670227,2,The Independent
+Zelensky,positive,Ukraine,0.2229639519,167,The Independent
+Zelensky,neutral,Ukraine,0.1214953271,91,The Independent
+Zelensky,negative,Ukraine,0.0080106809,6,The Independent
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.2142038946,187,The Independent
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.1111111111,97,The Independent
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0240549828,21,The Independent
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.7182130584,627,The Independent
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.1328751432,116,The Independent
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0034364261,3,The Independent
+Putin,negative,Ukraine,0.2192307692,57,AP News
+Putin,neutral,Ukraine,0.0653846154,17,AP News
+Putin,positive,Ukraine,0.0038461538,1,AP News
+Zelensky,positive,Ukraine,0.15,39,AP News
+Zelensky,neutral,Ukraine,0.0884615385,23,AP News
+Zelensky,negative,Ukraine,0.0038461538,1,AP News
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.3229946524,302,AP News
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.1625668449,152,AP News
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0171122995,16,AP News
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.7240641711,677,AP News
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.1347593583,126,AP News
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0010695187,1,AP News
+Putin,negative,Ukraine,0.4704301075,350,Washington Post
+Putin,neutral,Ukraine,0.0900537634,67,Washington Post
+Putin,positive,Ukraine,0.0040322581,3,Washington Post
+Zelensky,positive,Ukraine,0.2432795699,181,Washington Post
+Zelensky,neutral,Ukraine,0.1505376344,112,Washington Post
+Zelensky,negative,Ukraine,0.0080645161,6,Washington Post
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.4261424017,401,Washington Post
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.1540913921,145,Washington Post
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0148777896,14,Washington Post
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.7651434644,720,Washington Post
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.1115834219,105,Washington Post
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0021253985,2,Washington Post
+Putin,negative,Ukraine,0.6666666667,672,Mail Online
+Putin,neutral,Ukraine,0.0525793651,53,Mail Online
+Putin,positive,Ukraine,0.003968254,4,Mail Online
+Zelensky,positive,Ukraine,0.3650793651,368,Mail Online
+Zelensky,neutral,Ukraine,0.1091269841,110,Mail Online
+Zelensky,negative,Ukraine,0.0119047619,12,Mail Online
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.2808743169,257,Mail Online
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0852459016,78,Mail Online
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0404371585,37,Mail Online
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.7409836066,678,Mail Online
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.0513661202,47,Mail Online
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0054644809,5,Mail Online
+Putin,negative,Ukraine,0.5446205171,653,NYT
+Putin,neutral,Ukraine,0.0967472894,116,NYT
+Putin,positive,Ukraine,0.0058381985,7,NYT
+Zelensky,positive,Ukraine,0.3019182652,362,NYT
+Zelensky,neutral,Ukraine,0.1392827356,167,NYT
+Zelensky,negative,Ukraine,0.0100083403,12,NYT
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.2563359884,354,NYT
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.1708906589,236,NYT
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0152063722,21,NYT
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.6835626358,944,NYT
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.1433743664,198,NYT
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0043446778,6,NYT
+Putin,negative,Ukraine,0.316027088,140,BBC
+Putin,neutral,Ukraine,0.1060948081,47,BBC
+Putin,positive,Ukraine,0.0022573363,1,BBC
+Zelensky,positive,Ukraine,0.2009029345,89,BBC
+Zelensky,neutral,Ukraine,0.164785553,73,BBC
+Zelensky,negative,Ukraine,0.0090293454,4,BBC
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.2439903846,203,BBC
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0769230769,64,BBC
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0252403846,21,BBC
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.6129807692,510,BBC
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.1502403846,125,BBC
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.0072115385,6,BBC
+Putin,negative,Ukraine,0.4277938827,7231,All Outlets
+Putin,neutral,Ukraine,0.0895698988,1514,All Outlets
+Putin,positive,Ukraine,0.00431876,73,All Outlets
+Zelensky,positive,Ukraine,0.2397799207,4053,All Outlets
+Zelensky,neutral,Ukraine,0.1100396379,1860,All Outlets
+Zelensky,negative,Ukraine,0.0084008756,142,All Outlets
+Netanyahu,neutral,Gaza and the Occupied Palestinian Territories,0.2082432373,4719,All Outlets
+Netanyahu,negative,Gaza and the Occupied Palestinian Territories,0.0947001456,2146,All Outlets
+Netanyahu,positive,Gaza and the Occupied Palestinian Territories,0.0206963506,469,All Outlets
+Hamas,negative,Gaza and the Occupied Palestinian Territories,0.5849697719,13256,All Outlets
+Hamas,neutral,Gaza and the Occupied Palestinian Territories,0.11460218,2597,All Outlets
+Hamas,positive,Gaza and the Occupied Palestinian Territories,0.004810026,109,All Outlets
