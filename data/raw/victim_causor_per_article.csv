@@ -1,0 +1,349 @@
+group,framing_type,crisis_name,mentions_per_article,raw_count,outlet
+Russia,victim,Ukraine,0.015503876,4,USA Today
+Russia,causor,Ukraine,0.7364341085,190,USA Today
+Ukraine,victim,Ukraine,0.6782945736,175,USA Today
+Ukraine,causor,Ukraine,0.0,0,USA Today
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.5367647059,219,USA Today
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.1911764706,78,USA Today
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.4901960784,200,USA Today
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0294117647,12,USA Today
+Russia,victim,Ukraine,0.0223342939,31,CNN
+Russia,causor,Ukraine,0.8011527378,1112,CNN
+Ukraine,victim,Ukraine,0.757204611,1051,CNN
+Ukraine,causor,Ukraine,0.0165706052,23,CNN
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.4013096352,429,CNN
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.4246959775,454,CNN
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.693171188,741,CNN
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0252572498,27,CNN
+Russia,victim,Ukraine,0.0435643564,22,The Guardian
+Russia,causor,Ukraine,0.6356435644,321,The Guardian
+Ukraine,victim,Ukraine,0.5742574257,290,The Guardian
+Ukraine,causor,Ukraine,0.0257425743,13,The Guardian
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.376111817,592,The Guardian
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.5756035578,906,The Guardian
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.8119440915,1278,The Guardian
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0362134689,57,The Guardian
+Russia,victim,Ukraine,0.125,11,RT
+Russia,causor,Ukraine,0.2045454545,18,RT
+Ukraine,victim,Ukraine,0.2727272727,24,RT
+Ukraine,causor,Ukraine,0.3181818182,28,RT
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.1971830986,28,RT
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.5563380282,79,RT
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.676056338,96,RT
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0563380282,8,RT
+Russia,victim,Ukraine,0.0258302583,7,CBC (Canadian Broadcasting Corporation)
+Russia,causor,Ukraine,0.8007380074,217,CBC (Canadian Broadcasting Corporation)
+Ukraine,victim,Ukraine,0.8044280443,218,CBC (Canadian Broadcasting Corporation)
+Ukraine,causor,Ukraine,0.0184501845,5,CBC (Canadian Broadcasting Corporation)
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.4220072551,349,CBC (Canadian Broadcasting Corporation)
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.4123337364,341,CBC (Canadian Broadcasting Corporation)
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.7412333736,613,CBC (Canadian Broadcasting Corporation)
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0290205562,24,CBC (Canadian Broadcasting Corporation)
+Russia,victim,Ukraine,0.0300157978,38,Al Jazeera
+Russia,causor,Ukraine,0.7440758294,942,Al Jazeera
+Ukraine,victim,Ukraine,0.6808846761,862,Al Jazeera
+Ukraine,causor,Ukraine,0.041864139,53,Al Jazeera
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.1631652661,233,Al Jazeera
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.668767507,955,Al Jazeera
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.7289915966,1041,Al Jazeera
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0287114846,41,Al Jazeera
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.0,0,Wall Street Journal
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.0,0,Wall Street Journal
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.0,0,Wall Street Journal
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0,0,Wall Street Journal
+Russia,victim,Ukraine,0.0470588235,28,The Sun
+Russia,causor,Ukraine,0.8554621849,509,The Sun
+Ukraine,victim,Ukraine,0.6504201681,387,The Sun
+Ukraine,causor,Ukraine,0.0470588235,28,The Sun
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.6377649326,331,The Sun
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.1021194605,53,The Sun
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.2581888247,134,The Sun
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0539499037,28,The Sun
+Russia,victim,Ukraine,0.0428571429,6,yahoo
+Russia,causor,Ukraine,0.6142857143,86,yahoo
+Ukraine,victim,Ukraine,0.6142857143,86,yahoo
+Ukraine,causor,Ukraine,0.0357142857,5,yahoo
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.2936288089,212,yahoo
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.2686980609,194,yahoo
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.5152354571,372,yahoo
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0290858726,21,yahoo
+Russia,victim,Ukraine,0.0,0,Business Insider
+Russia,causor,Ukraine,0.7093023256,61,Business Insider
+Ukraine,victim,Ukraine,0.4651162791,40,Business Insider
+Ukraine,causor,Ukraine,0.023255814,2,Business Insider
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.5176470588,88,Business Insider
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.1588235294,27,Business Insider
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.3588235294,61,Business Insider
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0294117647,5,Business Insider
+Russia,victim,Ukraine,0.0167958656,13,Fox News
+Russia,causor,Ukraine,0.7157622739,554,Fox News
+Ukraine,victim,Ukraine,0.6356589147,492,Fox News
+Ukraine,causor,Ukraine,0.019379845,15,Fox News
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.6052009456,512,Fox News
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.1229314421,104,Fox News
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.2754137116,233,Fox News
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0756501182,64,Fox News
+Russia,victim,Ukraine,0.0,0,Radio Times
+Russia,causor,Ukraine,0.5,1,Radio Times
+Ukraine,victim,Ukraine,0.5,1,Radio Times
+Ukraine,causor,Ukraine,0.0,0,Radio Times
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.0,0,Radio Times
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.0,0,Radio Times
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.1666666667,1,Radio Times
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0,0,Radio Times
+Russia,victim,Ukraine,0.0,0,CTV News
+Russia,causor,Ukraine,0.0,0,CTV News
+Ukraine,victim,Ukraine,0.0,0,CTV News
+Ukraine,causor,Ukraine,0.0,0,CTV News
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.0,0,CTV News
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.0434782609,1,CTV News
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.1304347826,3,CTV News
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0,0,CTV News
+Russia,victim,Ukraine,0.1333333333,2,GB News
+Russia,causor,Ukraine,0.6,9,GB News
+Ukraine,victim,Ukraine,0.4666666667,7,GB News
+Ukraine,causor,Ukraine,0.0,0,GB News
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.3176470588,27,GB News
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.1294117647,11,GB News
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.1411764706,12,GB News
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0235294118,2,GB News
+Russia,victim,Ukraine,0.2,1,IRNA (Islamic Iranian News Agency)
+Russia,causor,Ukraine,0.4,2,IRNA (Islamic Iranian News Agency)
+Ukraine,victim,Ukraine,0.4,2,IRNA (Islamic Iranian News Agency)
+Ukraine,causor,Ukraine,0.0,0,IRNA (Islamic Iranian News Agency)
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.0860215054,8,IRNA (Islamic Iranian News Agency)
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.7849462366,73,IRNA (Islamic Iranian News Agency)
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.7311827957,68,IRNA (Islamic Iranian News Agency)
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0430107527,4,IRNA (Islamic Iranian News Agency)
+Russia,victim,Ukraine,0.0,0,Birmigham Live
+Russia,causor,Ukraine,0.5454545455,6,Birmigham Live
+Ukraine,victim,Ukraine,0.5454545455,6,Birmigham Live
+Ukraine,causor,Ukraine,0.0,0,Birmigham Live
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.25,7,Birmigham Live
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.3571428571,10,Birmigham Live
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.6428571429,18,Birmigham Live
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0,0,Birmigham Live
+Russia,victim,Ukraine,0.0,0,Channel 4
+Russia,causor,Ukraine,1.0,5,Channel 4
+Ukraine,victim,Ukraine,1.0,5,Channel 4
+Ukraine,causor,Ukraine,0.0,0,Channel 4
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.3333333333,7,Channel 4
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.2857142857,6,Channel 4
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.4761904762,10,Channel 4
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0,0,Channel 4
+Russia,victim,Ukraine,0.0,0,Buzzfeed
+Russia,causor,Ukraine,0.5294117647,9,Buzzfeed
+Ukraine,victim,Ukraine,0.5294117647,9,Buzzfeed
+Ukraine,causor,Ukraine,0.0,0,Buzzfeed
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.0813953488,7,Buzzfeed
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.1046511628,9,Buzzfeed
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.1511627907,13,Buzzfeed
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0,0,Buzzfeed
+Russia,victim,Ukraine,0.0,0,Manchester Evening News
+Russia,causor,Ukraine,0.575,23,Manchester Evening News
+Ukraine,victim,Ukraine,0.65,26,Manchester Evening News
+Ukraine,causor,Ukraine,0.0,0,Manchester Evening News
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.4181818182,23,Manchester Evening News
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.2181818182,12,Manchester Evening News
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.6,33,Manchester Evening News
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0,0,Manchester Evening News
+Russia,victim,Ukraine,0.0151515152,1,News.com.au
+Russia,causor,Ukraine,0.6818181818,45,News.com.au
+Ukraine,victim,Ukraine,0.6212121212,41,News.com.au
+Ukraine,causor,Ukraine,0.0454545455,3,News.com.au
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.4964028777,69,News.com.au
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.1223021583,17,News.com.au
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.2805755396,39,News.com.au
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0503597122,7,News.com.au
+Russia,victim,Ukraine,0.0,0,Daily Record
+Russia,causor,Ukraine,0.6741573034,60,Daily Record
+Ukraine,victim,Ukraine,0.7865168539,70,Daily Record
+Ukraine,causor,Ukraine,0.0,0,Daily Record
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.1724137931,20,Daily Record
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.1120689655,13,Daily Record
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.2413793103,28,Daily Record
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0344827586,4,Daily Record
+Russia,victim,Ukraine,0.1666666667,1,Reuters
+Russia,causor,Ukraine,0.8333333333,5,Reuters
+Ukraine,victim,Ukraine,0.8333333333,5,Reuters
+Ukraine,causor,Ukraine,0.0,0,Reuters
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.5714285714,8,Reuters
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.2857142857,4,Reuters
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.8571428571,12,Reuters
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.2142857143,3,Reuters
+Russia,victim,Ukraine,0.037037037,1,Sydney Morning Herald 
+Russia,causor,Ukraine,0.7777777778,21,Sydney Morning Herald 
+Ukraine,victim,Ukraine,0.6666666667,18,Sydney Morning Herald 
+Ukraine,causor,Ukraine,0.0740740741,2,Sydney Morning Herald 
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.4684684685,52,Sydney Morning Herald 
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.2702702703,30,Sydney Morning Herald 
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.4594594595,51,Sydney Morning Herald 
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.027027027,3,Sydney Morning Herald 
+Russia,victim,Ukraine,0.0279069767,12,CNBC
+Russia,causor,Ukraine,0.9465116279,407,CNBC
+Ukraine,victim,Ukraine,0.8674418605,373,CNBC
+Ukraine,causor,Ukraine,0.0186046512,8,CNBC
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.5820895522,117,CNBC
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.1741293532,35,CNBC
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.5422885572,109,CNBC
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.039800995,8,CNBC
+Russia,victim,Ukraine,0.0152671756,2,ITV
+Russia,causor,Ukraine,0.5190839695,68,ITV
+Ukraine,victim,Ukraine,0.4961832061,65,ITV
+Ukraine,causor,Ukraine,0.0,0,ITV
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.375,90,ITV
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.1916666667,46,ITV
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.3875,93,ITV
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0083333333,2,ITV
+Russia,victim,Ukraine,0.0268691589,23,ABC News
+Russia,causor,Ukraine,0.839953271,719,ABC News
+Ukraine,victim,Ukraine,0.7675233645,657,ABC News
+Ukraine,causor,Ukraine,0.0292056075,25,ABC News
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.4314285714,604,ABC News
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.2542857143,356,ABC News
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.565,791,ABC News
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0392857143,55,ABC News
+Russia,victim,Ukraine,0.0066445183,2,Forbes
+Russia,causor,Ukraine,0.7475083056,225,Forbes
+Ukraine,victim,Ukraine,0.5813953488,175,Forbes
+Ukraine,causor,Ukraine,0.0299003322,9,Forbes
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.5785714286,81,Forbes
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.1142857143,16,Forbes
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.2857142857,40,Forbes
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0214285714,3,Forbes
+Russia,victim,Ukraine,0.0289256198,21,Metro
+Russia,causor,Ukraine,0.8126721763,590,Metro
+Ukraine,victim,Ukraine,0.7148760331,519,Metro
+Ukraine,causor,Ukraine,0.023415978,17,Metro
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.3846153846,125,Metro
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.2307692308,75,Metro
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.4307692308,140,Metro
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0430769231,14,Metro
+Russia,victim,Ukraine,0.0,0,The Globe and Mail
+Russia,causor,Ukraine,0.8860759494,70,The Globe and Mail
+Ukraine,victim,Ukraine,0.7215189873,57,The Globe and Mail
+Ukraine,causor,Ukraine,0.0,0,The Globe and Mail
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.512254902,209,The Globe and Mail
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.3210784314,131,The Globe and Mail
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.6740196078,275,The Globe and Mail
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0441176471,18,The Globe and Mail
+Russia,victim,Ukraine,0.0493273543,11,Mirror
+Russia,causor,Ukraine,0.6233183857,139,Mirror
+Ukraine,victim,Ukraine,0.5201793722,116,Mirror
+Ukraine,causor,Ukraine,0.0134529148,3,Mirror
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.4217252396,132,Mirror
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.1661341853,52,Mirror
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.3961661342,124,Mirror
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0287539936,9,Mirror
+Russia,victim,Ukraine,0.0351758794,7,Daily Express
+Russia,causor,Ukraine,0.7537688442,150,Daily Express
+Ukraine,victim,Ukraine,0.6180904523,123,Daily Express
+Ukraine,causor,Ukraine,0.0150753769,3,Daily Express
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.3655913978,102,Daily Express
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.1433691756,40,Daily Express
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.3046594982,85,Daily Express
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0322580645,9,Daily Express
+Russia,victim,Ukraine,0.0316301703,26,The Telegraph
+Russia,causor,Ukraine,0.7433090024,611,The Telegraph
+Ukraine,victim,Ukraine,0.6070559611,499,The Telegraph
+Ukraine,causor,Ukraine,0.0316301703,26,The Telegraph
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.4616588419,295,The Telegraph
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.2097026604,134,The Telegraph
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.3536776213,226,The Telegraph
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0297339593,19,The Telegraph
+Russia,victim,Ukraine,0.0269058296,6,The Evening Standard
+Russia,causor,Ukraine,0.8475336323,189,The Evening Standard
+Ukraine,victim,Ukraine,0.8116591928,181,The Evening Standard
+Ukraine,causor,Ukraine,0.0134529148,3,The Evening Standard
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.4467592593,193,The Evening Standard
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.2037037037,88,The Evening Standard
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.4375,189,The Evening Standard
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.025462963,11,The Evening Standard
+Russia,victim,Ukraine,0.0325732899,20,NBC News
+Russia,causor,Ukraine,0.7312703583,449,NBC News
+Ukraine,victim,Ukraine,0.6872964169,422,NBC News
+Ukraine,causor,Ukraine,0.0211726384,13,NBC News
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.3535253227,356,NBC News
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.3714001986,374,NBC News
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.6027805362,607,NBC News
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0198609732,20,NBC News
+Russia,victim,Ukraine,0.0192023634,13,CBS News
+Russia,causor,Ukraine,0.4741506647,321,CBS News
+Ukraine,victim,Ukraine,0.4579025111,310,CBS News
+Ukraine,causor,Ukraine,0.0310192024,21,CBS News
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.3261608154,288,CBS News
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.167610419,148,CBS News
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.3465458664,306,CBS News
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0226500566,20,CBS News
+Russia,victim,Ukraine,0.0263424519,26,Sky News
+Russia,causor,Ukraine,0.7152988855,706,Sky News
+Ukraine,victim,Ukraine,0.6676798379,659,Sky News
+Ukraine,causor,Ukraine,0.0141843972,14,Sky News
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.2560296846,276,Sky News
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.1920222635,207,Sky News
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.3729128015,402,Sky News
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0231910946,25,Sky News
+Russia,victim,Ukraine,0.0281195079,16,New York Post
+Russia,causor,Ukraine,0.834797891,475,New York Post
+Ukraine,victim,Ukraine,0.7609841828,433,New York Post
+Ukraine,causor,Ukraine,0.0123022847,7,New York Post
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.7528795812,719,New York Post
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.1528795812,146,New York Post
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.2670157068,255,New York Post
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0827225131,79,New York Post
+Russia,victim,Ukraine,0.0186915888,14,The Independent
+Russia,causor,Ukraine,0.8838451268,662,The Independent
+Ukraine,victim,Ukraine,0.7997329773,599,The Independent
+Ukraine,causor,Ukraine,0.0146862483,11,The Independent
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.5372279496,469,The Independent
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.3894616266,340,The Independent
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.686139748,599,The Independent
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0366552119,32,The Independent
+Russia,victim,Ukraine,0.0153846154,4,AP News
+Russia,causor,Ukraine,0.4961538462,129,AP News
+Ukraine,victim,Ukraine,0.4346153846,113,AP News
+Ukraine,causor,Ukraine,0.0269230769,7,AP News
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.4983957219,466,AP News
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.4331550802,405,AP News
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.7764705882,726,AP News
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0427807487,40,AP News
+Russia,victim,Ukraine,0.0241935484,18,Washington Post
+Russia,causor,Ukraine,0.8279569892,616,Washington Post
+Ukraine,victim,Ukraine,0.7607526882,566,Washington Post
+Ukraine,causor,Ukraine,0.0107526882,8,Washington Post
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.5026567481,473,Washington Post
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.5430393199,511,Washington Post
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.8289054198,780,Washington Post
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0318809777,30,Washington Post
+Russia,victim,Ukraine,0.0367063492,37,Mail Online
+Russia,causor,Ukraine,0.8621031746,869,Mail Online
+Ukraine,victim,Ukraine,0.814484127,821,Mail Online
+Ukraine,causor,Ukraine,0.0188492063,19,Mail Online
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.5923497268,542,Mail Online
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.3005464481,275,Mail Online
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.5945355191,544,Mail Online
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0535519126,49,Mail Online
+Russia,victim,Ukraine,0.0291909925,35,NYT
+Russia,causor,Ukraine,0.8765638032,1051,NYT
+Ukraine,victim,Ukraine,0.8231859883,987,NYT
+Ukraine,causor,Ukraine,0.0175145955,21,NYT
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.4880521361,674,NYT
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.4112961622,568,NYT
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.7190441709,993,NYT
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0651701665,90,NYT
+Russia,victim,Ukraine,0.0135440181,6,BBC
+Russia,causor,Ukraine,0.6659142212,295,BBC
+Ukraine,victim,Ukraine,0.6365688488,282,BBC
+Ukraine,causor,Ukraine,0.0248306998,11,BBC
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.4290865385,357,BBC
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.3653846154,304,BBC
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.6105769231,508,BBC
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0564903846,47,BBC
+Russia,victim,Ukraine,0.0275099095,465,All Outlets
+Russia,causor,Ukraine,0.7653670946,12937,All Outlets
+Ukraine,victim,Ukraine,0.6964444182,11772,All Outlets
+Ukraine,causor,Ukraine,0.0238419216,403,All Outlets
+Israel,victim,Gaza and the Occupied Palestinian Territories,0.431975641,9789,All Outlets
+Israel,causor,Gaza and the Occupied Palestinian Territories,0.3366135652,7628,All Outlets
+Palestine,victim,Gaza and the Occupied Palestinian Territories,0.5670093994,12849,All Outlets
+Palestine,causor,Gaza and the Occupied Palestinian Territories,0.0392745245,890,All Outlets

@@ -1,0 +1,472 @@
+crisis_name,framing,raw_count,article_count,mentions_per_article,outlet
+Gaza and the Occupied Palestinian Territories,economic,4,408,0.0098039216,USA Today
+Gaza and the Occupied Palestinian Territories,geopolitical,109,408,0.2671568627,USA Today
+Gaza and the Occupied Palestinian Territories,humanitarian,151,408,0.3700980392,USA Today
+Gaza and the Occupied Palestinian Territories,legal,11,408,0.0269607843,USA Today
+Gaza and the Occupied Palestinian Territories,military,74,408,0.181372549,USA Today
+Gaza and the Occupied Palestinian Territories,other,59,408,0.1446078431,USA Today
+Ukraine,economic,13,257,0.0505836576,USA Today
+Ukraine,geopolitical,98,257,0.3813229572,USA Today
+Ukraine,humanitarian,49,257,0.1906614786,USA Today
+Ukraine,legal,4,257,0.0155642023,USA Today
+Ukraine,military,53,257,0.2062256809,USA Today
+Ukraine,other,40,257,0.1556420233,USA Today
+Gaza and the Occupied Palestinian Territories,economic,10,1066,0.009380863,CNN
+Gaza and the Occupied Palestinian Territories,geopolitical,189,1066,0.1772983114,CNN
+Gaza and the Occupied Palestinian Territories,humanitarian,476,1066,0.4465290807,CNN
+Gaza and the Occupied Palestinian Territories,legal,14,1066,0.0131332083,CNN
+Gaza and the Occupied Palestinian Territories,military,255,1066,0.2392120075,CNN
+Gaza and the Occupied Palestinian Territories,other,122,1066,0.1144465291,CNN
+Ukraine,economic,38,1388,0.0273775216,CNN
+Ukraine,geopolitical,416,1388,0.2997118156,CNN
+Ukraine,humanitarian,349,1388,0.2514409222,CNN
+Ukraine,legal,17,1388,0.0122478386,CNN
+Ukraine,military,462,1388,0.3328530259,CNN
+Ukraine,other,106,1388,0.0763688761,CNN
+Gaza and the Occupied Palestinian Territories,economic,11,1568,0.0070153061,The Guardian
+Gaza and the Occupied Palestinian Territories,geopolitical,318,1568,0.2028061224,The Guardian
+Gaza and the Occupied Palestinian Territories,humanitarian,864,1568,0.5510204082,The Guardian
+Gaza and the Occupied Palestinian Territories,legal,51,1568,0.0325255102,The Guardian
+Gaza and the Occupied Palestinian Territories,military,290,1568,0.1849489796,The Guardian
+Gaza and the Occupied Palestinian Territories,other,34,1568,0.0216836735,The Guardian
+Ukraine,economic,30,504,0.0595238095,The Guardian
+Ukraine,geopolitical,156,504,0.3095238095,The Guardian
+Ukraine,humanitarian,169,504,0.3353174603,The Guardian
+Ukraine,legal,8,504,0.0158730159,The Guardian
+Ukraine,military,129,504,0.255952381,The Guardian
+Ukraine,other,12,504,0.0238095238,The Guardian
+Gaza and the Occupied Palestinian Territories,economic,7,142,0.0492957746,RT
+Gaza and the Occupied Palestinian Territories,geopolitical,42,142,0.2957746479,RT
+Gaza and the Occupied Palestinian Territories,humanitarian,47,142,0.3309859155,RT
+Gaza and the Occupied Palestinian Territories,legal,4,142,0.0281690141,RT
+Gaza and the Occupied Palestinian Territories,military,39,142,0.2746478873,RT
+Gaza and the Occupied Palestinian Territories,other,3,142,0.0211267606,RT
+Ukraine,economic,2,88,0.0227272727,RT
+Ukraine,geopolitical,44,88,0.5,RT
+Ukraine,humanitarian,9,88,0.1022727273,RT
+Ukraine,legal,2,88,0.0227272727,RT
+Ukraine,military,29,88,0.3295454545,RT
+Ukraine,other,2,88,0.0227272727,RT
+Gaza and the Occupied Palestinian Territories,economic,7,820,0.0085365854,CBC (Canadian Broadcasting Corporation)
+Gaza and the Occupied Palestinian Territories,geopolitical,150,820,0.1829268293,CBC (Canadian Broadcasting Corporation)
+Gaza and the Occupied Palestinian Territories,humanitarian,471,820,0.5743902439,CBC (Canadian Broadcasting Corporation)
+Gaza and the Occupied Palestinian Territories,legal,29,820,0.0353658537,CBC (Canadian Broadcasting Corporation)
+Gaza and the Occupied Palestinian Territories,military,135,820,0.1646341463,CBC (Canadian Broadcasting Corporation)
+Gaza and the Occupied Palestinian Territories,other,28,820,0.0341463415,CBC (Canadian Broadcasting Corporation)
+Ukraine,economic,19,271,0.0701107011,CBC (Canadian Broadcasting Corporation)
+Ukraine,geopolitical,62,271,0.2287822878,CBC (Canadian Broadcasting Corporation)
+Ukraine,humanitarian,118,271,0.4354243542,CBC (Canadian Broadcasting Corporation)
+Ukraine,legal,4,271,0.0147601476,CBC (Canadian Broadcasting Corporation)
+Ukraine,military,58,271,0.2140221402,CBC (Canadian Broadcasting Corporation)
+Ukraine,other,10,271,0.036900369,CBC (Canadian Broadcasting Corporation)
+Gaza and the Occupied Palestinian Territories,economic,8,1427,0.0056061668,Al Jazeera
+Gaza and the Occupied Palestinian Territories,geopolitical,179,1427,0.1254379818,Al Jazeera
+Gaza and the Occupied Palestinian Territories,humanitarian,730,1427,0.511562719,Al Jazeera
+Gaza and the Occupied Palestinian Territories,legal,47,1427,0.0329362299,Al Jazeera
+Gaza and the Occupied Palestinian Territories,military,366,1427,0.2564821303,Al Jazeera
+Gaza and the Occupied Palestinian Territories,other,97,1427,0.0679747722,Al Jazeera
+Ukraine,economic,48,1266,0.0379146919,Al Jazeera
+Ukraine,geopolitical,439,1266,0.3467614534,Al Jazeera
+Ukraine,humanitarian,243,1266,0.191943128,Al Jazeera
+Ukraine,legal,20,1266,0.0157977883,Al Jazeera
+Ukraine,military,460,1266,0.3633491311,Al Jazeera
+Ukraine,other,56,1266,0.0442338073,Al Jazeera
+Gaza and the Occupied Palestinian Territories,humanitarian,1,2,0.5,Wall Street Journal
+Gaza and the Occupied Palestinian Territories,other,1,2,0.5,Wall Street Journal
+Gaza and the Occupied Palestinian Territories,economic,5,519,0.0096339114,The Sun
+Gaza and the Occupied Palestinian Territories,geopolitical,70,519,0.1348747592,The Sun
+Gaza and the Occupied Palestinian Territories,humanitarian,149,519,0.2870905588,The Sun
+Gaza and the Occupied Palestinian Territories,legal,10,519,0.0192678227,The Sun
+Gaza and the Occupied Palestinian Territories,military,234,519,0.450867052,The Sun
+Gaza and the Occupied Palestinian Territories,other,51,519,0.098265896,The Sun
+Ukraine,economic,8,589,0.013582343,The Sun
+Ukraine,geopolitical,144,589,0.2444821732,The Sun
+Ukraine,humanitarian,120,589,0.2037351443,The Sun
+Ukraine,legal,4,589,0.0067911715,The Sun
+Ukraine,military,285,589,0.4838709677,The Sun
+Ukraine,other,28,589,0.0475382003,The Sun
+Gaza and the Occupied Palestinian Territories,economic,13,722,0.0180055402,yahoo
+Gaza and the Occupied Palestinian Territories,geopolitical,145,722,0.2008310249,yahoo
+Gaza and the Occupied Palestinian Territories,humanitarian,238,722,0.3296398892,yahoo
+Gaza and the Occupied Palestinian Territories,legal,24,722,0.0332409972,yahoo
+Gaza and the Occupied Palestinian Territories,military,117,722,0.1620498615,yahoo
+Gaza and the Occupied Palestinian Territories,other,185,722,0.256232687,yahoo
+Ukraine,economic,7,140,0.05,yahoo
+Ukraine,geopolitical,42,140,0.3,yahoo
+Ukraine,humanitarian,30,140,0.2142857143,yahoo
+Ukraine,legal,3,140,0.0214285714,yahoo
+Ukraine,military,36,140,0.2571428571,yahoo
+Ukraine,other,22,140,0.1571428571,yahoo
+Gaza and the Occupied Palestinian Territories,economic,13,170,0.0764705882,Business Insider
+Gaza and the Occupied Palestinian Territories,geopolitical,31,170,0.1823529412,Business Insider
+Gaza and the Occupied Palestinian Territories,humanitarian,34,170,0.2,Business Insider
+Gaza and the Occupied Palestinian Territories,legal,3,170,0.0176470588,Business Insider
+Gaza and the Occupied Palestinian Territories,military,71,170,0.4176470588,Business Insider
+Gaza and the Occupied Palestinian Territories,other,18,170,0.1058823529,Business Insider
+Ukraine,economic,12,86,0.1395348837,Business Insider
+Ukraine,geopolitical,21,86,0.2441860465,Business Insider
+Ukraine,humanitarian,11,86,0.1279069767,Business Insider
+Ukraine,legal,1,86,0.011627907,Business Insider
+Ukraine,military,40,86,0.4651162791,Business Insider
+Ukraine,other,1,86,0.011627907,Business Insider
+Gaza and the Occupied Palestinian Territories,economic,3,837,0.0035842294,Fox News
+Gaza and the Occupied Palestinian Territories,geopolitical,278,837,0.3321385902,Fox News
+Gaza and the Occupied Palestinian Territories,humanitarian,202,837,0.2413381123,Fox News
+Gaza and the Occupied Palestinian Territories,legal,33,837,0.0394265233,Fox News
+Gaza and the Occupied Palestinian Territories,military,234,837,0.2795698925,Fox News
+Gaza and the Occupied Palestinian Territories,other,87,837,0.1039426523,Fox News
+Ukraine,economic,8,774,0.0103359173,Fox News
+Ukraine,geopolitical,277,774,0.357881137,Fox News
+Ukraine,humanitarian,198,774,0.2558139535,Fox News
+Ukraine,legal,11,774,0.0142118863,Fox News
+Ukraine,military,221,774,0.2855297158,Fox News
+Ukraine,other,59,774,0.0762273902,Fox News
+Gaza and the Occupied Palestinian Territories,geopolitical,2,6,0.3333333333,Radio Times
+Gaza and the Occupied Palestinian Territories,other,4,6,0.6666666667,Radio Times
+Ukraine,humanitarian,1,2,0.5,Radio Times
+Ukraine,other,1,2,0.5,Radio Times
+Gaza and the Occupied Palestinian Territories,economic,1,23,0.0434782609,CTV News
+Gaza and the Occupied Palestinian Territories,geopolitical,8,23,0.347826087,CTV News
+Gaza and the Occupied Palestinian Territories,humanitarian,4,23,0.1739130435,CTV News
+Gaza and the Occupied Palestinian Territories,military,4,23,0.1739130435,CTV News
+Gaza and the Occupied Palestinian Territories,other,6,23,0.2608695652,CTV News
+Ukraine,economic,1,9,0.1111111111,CTV News
+Ukraine,geopolitical,1,9,0.1111111111,CTV News
+Ukraine,other,7,9,0.7777777778,CTV News
+Gaza and the Occupied Palestinian Territories,economic,3,85,0.0352941176,GB News
+Gaza and the Occupied Palestinian Territories,geopolitical,23,85,0.2705882353,GB News
+Gaza and the Occupied Palestinian Territories,humanitarian,20,85,0.2352941176,GB News
+Gaza and the Occupied Palestinian Territories,legal,2,85,0.0235294118,GB News
+Gaza and the Occupied Palestinian Territories,military,8,85,0.0941176471,GB News
+Gaza and the Occupied Palestinian Territories,other,29,85,0.3411764706,GB News
+Ukraine,economic,3,15,0.2,GB News
+Ukraine,geopolitical,4,15,0.2666666667,GB News
+Ukraine,humanitarian,1,15,0.0666666667,GB News
+Ukraine,military,6,15,0.4,GB News
+Ukraine,other,1,15,0.0666666667,GB News
+Gaza and the Occupied Palestinian Territories,economic,1,93,0.0107526882,IRNA (Islamic Iranian News Agency)
+Gaza and the Occupied Palestinian Territories,geopolitical,18,93,0.1935483871,IRNA (Islamic Iranian News Agency)
+Gaza and the Occupied Palestinian Territories,humanitarian,34,93,0.3655913978,IRNA (Islamic Iranian News Agency)
+Gaza and the Occupied Palestinian Territories,legal,3,93,0.0322580645,IRNA (Islamic Iranian News Agency)
+Gaza and the Occupied Palestinian Territories,military,37,93,0.3978494624,IRNA (Islamic Iranian News Agency)
+Ukraine,geopolitical,2,5,0.4,IRNA (Islamic Iranian News Agency)
+Ukraine,humanitarian,2,5,0.4,IRNA (Islamic Iranian News Agency)
+Ukraine,military,1,5,0.2,IRNA (Islamic Iranian News Agency)
+Gaza and the Occupied Palestinian Territories,geopolitical,6,28,0.2142857143,Birmigham Live
+Gaza and the Occupied Palestinian Territories,humanitarian,15,28,0.5357142857,Birmigham Live
+Gaza and the Occupied Palestinian Territories,military,1,28,0.0357142857,Birmigham Live
+Gaza and the Occupied Palestinian Territories,other,6,28,0.2142857143,Birmigham Live
+Ukraine,economic,2,11,0.1818181818,Birmigham Live
+Ukraine,geopolitical,3,11,0.2727272727,Birmigham Live
+Ukraine,humanitarian,5,11,0.4545454545,Birmigham Live
+Ukraine,other,1,11,0.0909090909,Birmigham Live
+Gaza and the Occupied Palestinian Territories,geopolitical,7,21,0.3333333333,Channel 4
+Gaza and the Occupied Palestinian Territories,humanitarian,4,21,0.1904761905,Channel 4
+Gaza and the Occupied Palestinian Territories,military,9,21,0.4285714286,Channel 4
+Gaza and the Occupied Palestinian Territories,other,1,21,0.0476190476,Channel 4
+Ukraine,geopolitical,3,5,0.6,Channel 4
+Ukraine,military,2,5,0.4,Channel 4
+Gaza and the Occupied Palestinian Territories,economic,3,86,0.0348837209,Buzzfeed
+Gaza and the Occupied Palestinian Territories,geopolitical,6,86,0.0697674419,Buzzfeed
+Gaza and the Occupied Palestinian Territories,humanitarian,8,86,0.0930232558,Buzzfeed
+Gaza and the Occupied Palestinian Territories,other,69,86,0.8023255814,Buzzfeed
+Ukraine,economic,3,17,0.1764705882,Buzzfeed
+Ukraine,geopolitical,3,17,0.1764705882,Buzzfeed
+Ukraine,humanitarian,5,17,0.2941176471,Buzzfeed
+Ukraine,military,1,17,0.0588235294,Buzzfeed
+Ukraine,other,5,17,0.2941176471,Buzzfeed
+Gaza and the Occupied Palestinian Territories,geopolitical,14,55,0.2545454545,Manchester Evening News
+Gaza and the Occupied Palestinian Territories,humanitarian,33,55,0.6,Manchester Evening News
+Gaza and the Occupied Palestinian Territories,military,3,55,0.0545454545,Manchester Evening News
+Gaza and the Occupied Palestinian Territories,other,5,55,0.0909090909,Manchester Evening News
+Ukraine,economic,2,40,0.05,Manchester Evening News
+Ukraine,geopolitical,4,40,0.1,Manchester Evening News
+Ukraine,humanitarian,21,40,0.525,Manchester Evening News
+Ukraine,military,2,40,0.05,Manchester Evening News
+Ukraine,other,11,40,0.275,Manchester Evening News
+Gaza and the Occupied Palestinian Territories,geopolitical,58,139,0.4172661871,News.com.au
+Gaza and the Occupied Palestinian Territories,humanitarian,37,139,0.2661870504,News.com.au
+Gaza and the Occupied Palestinian Territories,legal,9,139,0.0647482014,News.com.au
+Gaza and the Occupied Palestinian Territories,military,13,139,0.0935251799,News.com.au
+Gaza and the Occupied Palestinian Territories,other,22,139,0.1582733813,News.com.au
+Ukraine,economic,3,66,0.0454545455,News.com.au
+Ukraine,geopolitical,27,66,0.4090909091,News.com.au
+Ukraine,humanitarian,5,66,0.0757575758,News.com.au
+Ukraine,legal,1,66,0.0151515152,News.com.au
+Ukraine,military,28,66,0.4242424242,News.com.au
+Ukraine,other,2,66,0.0303030303,News.com.au
+Gaza and the Occupied Palestinian Territories,economic,3,116,0.025862069,Daily Record
+Gaza and the Occupied Palestinian Territories,geopolitical,9,116,0.0775862069,Daily Record
+Gaza and the Occupied Palestinian Territories,humanitarian,42,116,0.3620689655,Daily Record
+Gaza and the Occupied Palestinian Territories,legal,2,116,0.0172413793,Daily Record
+Gaza and the Occupied Palestinian Territories,military,7,116,0.0603448276,Daily Record
+Gaza and the Occupied Palestinian Territories,other,53,116,0.4568965517,Daily Record
+Ukraine,economic,1,89,0.0112359551,Daily Record
+Ukraine,geopolitical,14,89,0.1573033708,Daily Record
+Ukraine,humanitarian,43,89,0.4831460674,Daily Record
+Ukraine,military,16,89,0.1797752809,Daily Record
+Ukraine,other,15,89,0.1685393258,Daily Record
+Gaza and the Occupied Palestinian Territories,humanitarian,7,14,0.5,Reuters
+Gaza and the Occupied Palestinian Territories,military,6,14,0.4285714286,Reuters
+Gaza and the Occupied Palestinian Territories,other,1,14,0.0714285714,Reuters
+Ukraine,military,6,6,1.0,Reuters
+Gaza and the Occupied Palestinian Territories,geopolitical,25,111,0.2252252252,Sydney Morning Herald 
+Gaza and the Occupied Palestinian Territories,humanitarian,44,111,0.3963963964,Sydney Morning Herald 
+Gaza and the Occupied Palestinian Territories,legal,3,111,0.027027027,Sydney Morning Herald 
+Gaza and the Occupied Palestinian Territories,military,26,111,0.2342342342,Sydney Morning Herald 
+Gaza and the Occupied Palestinian Territories,other,13,111,0.1171171171,Sydney Morning Herald 
+Ukraine,economic,5,27,0.1851851852,Sydney Morning Herald 
+Ukraine,geopolitical,7,27,0.2592592593,Sydney Morning Herald 
+Ukraine,humanitarian,6,27,0.2222222222,Sydney Morning Herald 
+Ukraine,legal,1,27,0.037037037,Sydney Morning Herald 
+Ukraine,military,8,27,0.2962962963,Sydney Morning Herald 
+Gaza and the Occupied Palestinian Territories,economic,37,201,0.184079602,CNBC
+Gaza and the Occupied Palestinian Territories,geopolitical,53,201,0.263681592,CNBC
+Gaza and the Occupied Palestinian Territories,humanitarian,45,201,0.223880597,CNBC
+Gaza and the Occupied Palestinian Territories,legal,7,201,0.0348258706,CNBC
+Gaza and the Occupied Palestinian Territories,military,54,201,0.2686567164,CNBC
+Gaza and the Occupied Palestinian Territories,other,5,201,0.0248756219,CNBC
+Ukraine,economic,47,430,0.1093023256,CNBC
+Ukraine,geopolitical,206,430,0.4790697674,CNBC
+Ukraine,humanitarian,23,430,0.0534883721,CNBC
+Ukraine,legal,3,430,0.0069767442,CNBC
+Ukraine,military,151,430,0.3511627907,CNBC
+Gaza and the Occupied Palestinian Territories,economic,4,240,0.0166666667,ITV
+Gaza and the Occupied Palestinian Territories,geopolitical,32,240,0.1333333333,ITV
+Gaza and the Occupied Palestinian Territories,humanitarian,106,240,0.4416666667,ITV
+Gaza and the Occupied Palestinian Territories,legal,9,240,0.0375,ITV
+Gaza and the Occupied Palestinian Territories,military,34,240,0.1416666667,ITV
+Gaza and the Occupied Palestinian Territories,other,55,240,0.2291666667,ITV
+Ukraine,economic,7,131,0.0534351145,ITV
+Ukraine,geopolitical,30,131,0.2290076336,ITV
+Ukraine,humanitarian,50,131,0.3816793893,ITV
+Ukraine,legal,4,131,0.0305343511,ITV
+Ukraine,military,16,131,0.1221374046,ITV
+Ukraine,other,24,131,0.1832061069,ITV
+Gaza and the Occupied Palestinian Territories,economic,16,1395,0.0114695341,ABC News
+Gaza and the Occupied Palestinian Territories,geopolitical,260,1395,0.1863799283,ABC News
+Gaza and the Occupied Palestinian Territories,humanitarian,563,1395,0.4035842294,ABC News
+Gaza and the Occupied Palestinian Territories,legal,31,1395,0.0222222222,ABC News
+Gaza and the Occupied Palestinian Territories,military,382,1395,0.2738351254,ABC News
+Gaza and the Occupied Palestinian Territories,other,143,1395,0.1025089606,ABC News
+Ukraine,economic,35,856,0.0408878505,ABC News
+Ukraine,geopolitical,258,856,0.3014018692,ABC News
+Ukraine,humanitarian,235,856,0.2745327103,ABC News
+Ukraine,legal,17,856,0.0198598131,ABC News
+Ukraine,military,288,856,0.3364485981,ABC News
+Ukraine,other,23,856,0.0268691589,ABC News
+Gaza and the Occupied Palestinian Territories,economic,16,140,0.1142857143,Forbes
+Gaza and the Occupied Palestinian Territories,geopolitical,36,140,0.2571428571,Forbes
+Gaza and the Occupied Palestinian Territories,humanitarian,41,140,0.2928571429,Forbes
+Gaza and the Occupied Palestinian Territories,legal,6,140,0.0428571429,Forbes
+Gaza and the Occupied Palestinian Territories,military,31,140,0.2214285714,Forbes
+Gaza and the Occupied Palestinian Territories,other,10,140,0.0714285714,Forbes
+Ukraine,economic,36,301,0.1196013289,Forbes
+Ukraine,geopolitical,87,301,0.2890365449,Forbes
+Ukraine,humanitarian,34,301,0.1129568106,Forbes
+Ukraine,legal,2,301,0.0066445183,Forbes
+Ukraine,military,136,301,0.4518272425,Forbes
+Ukraine,other,6,301,0.0199335548,Forbes
+Gaza and the Occupied Palestinian Territories,economic,2,325,0.0061538462,Metro
+Gaza and the Occupied Palestinian Territories,geopolitical,72,325,0.2215384615,Metro
+Gaza and the Occupied Palestinian Territories,humanitarian,134,325,0.4123076923,Metro
+Gaza and the Occupied Palestinian Territories,legal,6,325,0.0184615385,Metro
+Gaza and the Occupied Palestinian Territories,military,65,325,0.2,Metro
+Gaza and the Occupied Palestinian Territories,other,46,325,0.1415384615,Metro
+Ukraine,economic,30,723,0.0414937759,Metro
+Ukraine,geopolitical,193,723,0.2669432918,Metro
+Ukraine,humanitarian,224,723,0.3098201936,Metro
+Ukraine,legal,3,723,0.0041493776,Metro
+Ukraine,military,246,723,0.3402489627,Metro
+Ukraine,other,27,723,0.0373443983,Metro
+Gaza and the Occupied Palestinian Territories,economic,18,408,0.0441176471,The Globe and Mail
+Gaza and the Occupied Palestinian Territories,geopolitical,67,408,0.1642156863,The Globe and Mail
+Gaza and the Occupied Palestinian Territories,humanitarian,184,408,0.4509803922,The Globe and Mail
+Gaza and the Occupied Palestinian Territories,legal,8,408,0.0196078431,The Globe and Mail
+Gaza and the Occupied Palestinian Territories,military,116,408,0.2843137255,The Globe and Mail
+Gaza and the Occupied Palestinian Territories,other,15,408,0.0367647059,The Globe and Mail
+Ukraine,economic,19,79,0.2405063291,The Globe and Mail
+Ukraine,geopolitical,34,79,0.4303797468,The Globe and Mail
+Ukraine,humanitarian,6,79,0.0759493671,The Globe and Mail
+Ukraine,legal,2,79,0.0253164557,The Globe and Mail
+Ukraine,military,18,79,0.2278481013,The Globe and Mail
+Gaza and the Occupied Palestinian Territories,economic,10,313,0.0319488818,Mirror
+Gaza and the Occupied Palestinian Territories,geopolitical,34,313,0.1086261981,Mirror
+Gaza and the Occupied Palestinian Territories,humanitarian,127,313,0.4057507987,Mirror
+Gaza and the Occupied Palestinian Territories,legal,6,313,0.0191693291,Mirror
+Gaza and the Occupied Palestinian Territories,military,61,313,0.1948881789,Mirror
+Gaza and the Occupied Palestinian Territories,other,75,313,0.2396166134,Mirror
+Ukraine,economic,7,223,0.0313901345,Mirror
+Ukraine,geopolitical,44,223,0.197309417,Mirror
+Ukraine,humanitarian,59,223,0.264573991,Mirror
+Ukraine,legal,6,223,0.0269058296,Mirror
+Ukraine,military,70,223,0.3139013453,Mirror
+Ukraine,other,37,223,0.1659192825,Mirror
+Gaza and the Occupied Palestinian Territories,economic,19,279,0.0681003584,Daily Express
+Gaza and the Occupied Palestinian Territories,geopolitical,67,279,0.2401433692,Daily Express
+Gaza and the Occupied Palestinian Territories,humanitarian,79,279,0.2831541219,Daily Express
+Gaza and the Occupied Palestinian Territories,legal,10,279,0.0358422939,Daily Express
+Gaza and the Occupied Palestinian Territories,military,62,279,0.2222222222,Daily Express
+Gaza and the Occupied Palestinian Territories,other,42,279,0.1505376344,Daily Express
+Ukraine,economic,10,199,0.0502512563,Daily Express
+Ukraine,geopolitical,54,199,0.2713567839,Daily Express
+Ukraine,humanitarian,28,199,0.1407035176,Daily Express
+Ukraine,legal,3,199,0.0150753769,Daily Express
+Ukraine,military,84,199,0.4221105528,Daily Express
+Ukraine,other,20,199,0.1005025126,Daily Express
+Gaza and the Occupied Palestinian Territories,economic,21,638,0.0329153605,The Telegraph
+Gaza and the Occupied Palestinian Territories,geopolitical,177,638,0.2774294671,The Telegraph
+Gaza and the Occupied Palestinian Territories,humanitarian,163,638,0.2554858934,The Telegraph
+Gaza and the Occupied Palestinian Territories,legal,22,638,0.0344827586,The Telegraph
+Gaza and the Occupied Palestinian Territories,military,183,638,0.2868338558,The Telegraph
+Gaza and the Occupied Palestinian Territories,other,72,638,0.1128526646,The Telegraph
+Ukraine,economic,31,821,0.0377588307,The Telegraph
+Ukraine,geopolitical,259,821,0.3154689403,The Telegraph
+Ukraine,humanitarian,145,821,0.1766138855,The Telegraph
+Ukraine,legal,14,821,0.0170523752,The Telegraph
+Ukraine,military,344,821,0.419001218,The Telegraph
+Ukraine,other,28,821,0.0341047503,The Telegraph
+Gaza and the Occupied Palestinian Territories,economic,7,432,0.0162037037,The Evening Standard
+Gaza and the Occupied Palestinian Territories,geopolitical,98,432,0.2268518519,The Evening Standard
+Gaza and the Occupied Palestinian Territories,humanitarian,182,432,0.4212962963,The Evening Standard
+Gaza and the Occupied Palestinian Territories,legal,26,432,0.0601851852,The Evening Standard
+Gaza and the Occupied Palestinian Territories,military,53,432,0.1226851852,The Evening Standard
+Gaza and the Occupied Palestinian Territories,other,66,432,0.1527777778,The Evening Standard
+Ukraine,economic,5,223,0.0224215247,The Evening Standard
+Ukraine,geopolitical,78,223,0.3497757848,The Evening Standard
+Ukraine,humanitarian,69,223,0.3094170404,The Evening Standard
+Ukraine,legal,1,223,0.0044843049,The Evening Standard
+Ukraine,military,64,223,0.2869955157,The Evening Standard
+Ukraine,other,6,223,0.0269058296,The Evening Standard
+Gaza and the Occupied Palestinian Territories,economic,5,1005,0.0049751244,NBC News
+Gaza and the Occupied Palestinian Territories,geopolitical,204,1005,0.2029850746,NBC News
+Gaza and the Occupied Palestinian Territories,humanitarian,442,1005,0.439800995,NBC News
+Gaza and the Occupied Palestinian Territories,legal,22,1005,0.0218905473,NBC News
+Gaza and the Occupied Palestinian Territories,military,244,1005,0.2427860697,NBC News
+Gaza and the Occupied Palestinian Territories,other,88,1005,0.0875621891,NBC News
+Ukraine,economic,12,613,0.0195758564,NBC News
+Ukraine,geopolitical,212,613,0.3458401305,NBC News
+Ukraine,humanitarian,134,613,0.2185970636,NBC News
+Ukraine,legal,19,613,0.030995106,NBC News
+Ukraine,military,209,613,0.3409461664,NBC News
+Ukraine,other,27,613,0.044045677,NBC News
+Gaza and the Occupied Palestinian Territories,economic,7,877,0.007981756,CBS News
+Gaza and the Occupied Palestinian Territories,geopolitical,251,877,0.2862029647,CBS News
+Gaza and the Occupied Palestinian Territories,humanitarian,282,877,0.3215507412,CBS News
+Gaza and the Occupied Palestinian Territories,legal,23,877,0.0262257697,CBS News
+Gaza and the Occupied Palestinian Territories,military,216,877,0.2462941847,CBS News
+Gaza and the Occupied Palestinian Territories,other,98,877,0.1117445838,CBS News
+Ukraine,economic,22,676,0.0325443787,CBS News
+Ukraine,geopolitical,186,676,0.275147929,CBS News
+Ukraine,humanitarian,169,676,0.25,CBS News
+Ukraine,legal,23,676,0.0340236686,CBS News
+Ukraine,military,171,676,0.2529585799,CBS News
+Ukraine,other,105,676,0.1553254438,CBS News
+Gaza and the Occupied Palestinian Territories,economic,7,1076,0.0065055762,Sky News
+Gaza and the Occupied Palestinian Territories,geopolitical,227,1076,0.2109665428,Sky News
+Gaza and the Occupied Palestinian Territories,humanitarian,348,1076,0.3234200743,Sky News
+Gaza and the Occupied Palestinian Territories,legal,16,1076,0.0148698885,Sky News
+Gaza and the Occupied Palestinian Territories,military,270,1076,0.250929368,Sky News
+Gaza and the Occupied Palestinian Territories,other,208,1076,0.1933085502,Sky News
+Ukraine,economic,40,986,0.0405679513,Sky News
+Ukraine,geopolitical,378,986,0.38336714,Sky News
+Ukraine,humanitarian,159,986,0.1612576065,Sky News
+Ukraine,legal,14,986,0.014198783,Sky News
+Ukraine,military,273,986,0.2768762677,Sky News
+Ukraine,other,122,986,0.1237322515,Sky News
+Gaza and the Occupied Palestinian Territories,economic,3,947,0.0031678986,New York Post
+Gaza and the Occupied Palestinian Territories,geopolitical,320,947,0.3379091869,New York Post
+Gaza and the Occupied Palestinian Territories,humanitarian,288,947,0.3041182682,New York Post
+Gaza and the Occupied Palestinian Territories,legal,23,947,0.0242872228,New York Post
+Gaza and the Occupied Palestinian Territories,military,261,947,0.2756071806,New York Post
+Gaza and the Occupied Palestinian Territories,other,52,947,0.0549102429,New York Post
+Ukraine,economic,17,569,0.0298769772,New York Post
+Ukraine,geopolitical,188,569,0.3304042179,New York Post
+Ukraine,humanitarian,140,569,0.2460456942,New York Post
+Ukraine,legal,12,569,0.0210896309,New York Post
+Ukraine,military,195,569,0.3427065026,New York Post
+Ukraine,other,17,569,0.0298769772,New York Post
+Gaza and the Occupied Palestinian Territories,economic,6,865,0.0069364162,The Independent
+Gaza and the Occupied Palestinian Territories,geopolitical,158,865,0.1826589595,The Independent
+Gaza and the Occupied Palestinian Territories,humanitarian,463,865,0.5352601156,The Independent
+Gaza and the Occupied Palestinian Territories,legal,19,865,0.0219653179,The Independent
+Gaza and the Occupied Palestinian Territories,military,205,865,0.2369942197,The Independent
+Gaza and the Occupied Palestinian Territories,other,14,865,0.0161849711,The Independent
+Ukraine,economic,15,749,0.0200267023,The Independent
+Ukraine,geopolitical,263,749,0.3511348465,The Independent
+Ukraine,humanitarian,214,749,0.2857142857,The Independent
+Ukraine,legal,12,749,0.0160213618,The Independent
+Ukraine,military,228,749,0.3044058745,The Independent
+Ukraine,other,17,749,0.0226969292,The Independent
+Gaza and the Occupied Palestinian Territories,economic,12,926,0.0129589633,AP News
+Gaza and the Occupied Palestinian Territories,geopolitical,161,926,0.1738660907,AP News
+Gaza and the Occupied Palestinian Territories,humanitarian,440,926,0.475161987,AP News
+Gaza and the Occupied Palestinian Territories,legal,31,926,0.0334773218,AP News
+Gaza and the Occupied Palestinian Territories,military,257,926,0.277537797,AP News
+Gaza and the Occupied Palestinian Territories,other,25,926,0.0269978402,AP News
+Ukraine,economic,8,260,0.0307692308,AP News
+Ukraine,geopolitical,72,260,0.2769230769,AP News
+Ukraine,humanitarian,90,260,0.3461538462,AP News
+Ukraine,legal,16,260,0.0615384615,AP News
+Ukraine,military,61,260,0.2346153846,AP News
+Ukraine,other,13,260,0.05,AP News
+Gaza and the Occupied Palestinian Territories,economic,6,935,0.0064171123,Washington Post
+Gaza and the Occupied Palestinian Territories,geopolitical,176,935,0.1882352941,Washington Post
+Gaza and the Occupied Palestinian Territories,humanitarian,356,935,0.3807486631,Washington Post
+Gaza and the Occupied Palestinian Territories,legal,10,935,0.0106951872,Washington Post
+Gaza and the Occupied Palestinian Territories,military,369,935,0.3946524064,Washington Post
+Gaza and the Occupied Palestinian Territories,other,18,935,0.0192513369,Washington Post
+Ukraine,economic,21,744,0.0282258065,Washington Post
+Ukraine,geopolitical,333,744,0.4475806452,Washington Post
+Ukraine,humanitarian,152,744,0.2043010753,Washington Post
+Ukraine,legal,6,744,0.0080645161,Washington Post
+Ukraine,military,217,744,0.2916666667,Washington Post
+Ukraine,other,15,744,0.0201612903,Washington Post
+Gaza and the Occupied Palestinian Territories,economic,15,905,0.0165745856,Mail Online
+Gaza and the Occupied Palestinian Territories,geopolitical,219,905,0.2419889503,Mail Online
+Gaza and the Occupied Palestinian Territories,humanitarian,315,905,0.3480662983,Mail Online
+Gaza and the Occupied Palestinian Territories,legal,19,905,0.0209944751,Mail Online
+Gaza and the Occupied Palestinian Territories,military,291,905,0.3215469613,Mail Online
+Gaza and the Occupied Palestinian Territories,other,46,905,0.0508287293,Mail Online
+Ukraine,economic,27,1008,0.0267857143,Mail Online
+Ukraine,geopolitical,266,1008,0.2638888889,Mail Online
+Ukraine,humanitarian,289,1008,0.2867063492,Mail Online
+Ukraine,legal,3,1008,0.0029761905,Mail Online
+Ukraine,military,392,1008,0.3888888889,Mail Online
+Ukraine,other,31,1008,0.0307539683,Mail Online
+Gaza and the Occupied Palestinian Territories,economic,17,1370,0.0124087591,NYT
+Gaza and the Occupied Palestinian Territories,geopolitical,353,1370,0.2576642336,NYT
+Gaza and the Occupied Palestinian Territories,humanitarian,517,1370,0.3773722628,NYT
+Gaza and the Occupied Palestinian Territories,legal,37,1370,0.0270072993,NYT
+Gaza and the Occupied Palestinian Territories,military,404,1370,0.2948905109,NYT
+Gaza and the Occupied Palestinian Territories,other,42,1370,0.0306569343,NYT
+Ukraine,economic,39,1199,0.0325271059,NYT
+Ukraine,geopolitical,446,1199,0.3719766472,NYT
+Ukraine,humanitarian,295,1199,0.2460383653,NYT
+Ukraine,legal,10,1199,0.0083402836,NYT
+Ukraine,military,393,1199,0.3277731443,NYT
+Ukraine,other,16,1199,0.0133444537,NYT
+Gaza and the Occupied Palestinian Territories,economic,10,829,0.0120627262,BBC
+Gaza and the Occupied Palestinian Territories,geopolitical,147,829,0.1773220748,BBC
+Gaza and the Occupied Palestinian Territories,humanitarian,366,829,0.441495778,BBC
+Gaza and the Occupied Palestinian Territories,legal,28,829,0.0337756333,BBC
+Gaza and the Occupied Palestinian Territories,military,241,829,0.2907117008,BBC
+Gaza and the Occupied Palestinian Territories,other,37,829,0.0446320869,BBC
+Ukraine,economic,20,443,0.0451467269,BBC
+Ukraine,geopolitical,128,443,0.2889390519,BBC
+Ukraine,humanitarian,145,443,0.3273137698,BBC
+Ukraine,legal,9,443,0.0203160271,BBC
+Ukraine,military,120,443,0.2708803612,BBC
+Ukraine,other,21,443,0.0474040632,BBC
+Gaza and the Occupied Palestinian Territories,economic,330,22564,0.0146250665,All Outlets
+Gaza and the Occupied Palestinian Territories,geopolitical,4799,22564,0.2126839213,All Outlets
+Gaza and the Occupied Palestinian Territories,humanitarian,9052,22564,0.4011700053,All Outlets
+Gaza and the Occupied Palestinian Territories,legal,604,22564,0.0267683035,All Outlets
+Gaza and the Occupied Palestinian Territories,military,5728,22564,0.2538556993,All Outlets
+Gaza and the Occupied Palestinian Territories,other,2051,22564,0.0908970041,All Outlets
+Ukraine,economic,653,16888,0.0386665088,All Outlets
+Ukraine,geopolitical,5482,16888,0.32460919,All Outlets
+Ukraine,humanitarian,4045,16888,0.2395191852,All Outlets
+Ukraine,legal,255,16888,0.0150994789,All Outlets
+Ukraine,military,5519,16888,0.3268000947,All Outlets
+Ukraine,other,934,16888,0.0553055424,All Outlets
