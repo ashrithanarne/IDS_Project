@@ -1,0 +1,6 @@
+## **Data Acquisition 2 (Database Storage)**
+This phase focused on structuring the acquired datasets into a relational SQLite database to ensure analytical consistency and reproducibility. Rather than continuing analysis directly from CSV files, we formalized a database schema to separate raw data storage from analytical workflows. A primary crisis_id was generated and assigned to each crisis to maintain referential integrity across related tables, including monthly coverage, outlet-level coverage, framing, sentiment, and victim/causor representations.
+
+The schema was defined in a centralized schema.sql file and executed programmatically to ensure that all collaborators generate identical database structures. This decision avoided inconsistencies that could arise from manual table creation. Data was then inserted using pandas’ .to_sql() functionality after selecting relevant columns and ensuring correct data types.
+
+Importantly, the database file itself is not version-controlled. Instead, we maintain the schema definition and loading workflow in the repository so that the database can be regenerated locally. This design choice improves reproducibility and aligns with best practices for collaborative data projects.
