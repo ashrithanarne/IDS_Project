@@ -1,0 +1,6 @@
+## **Reflection and Next Steps**
+The transition from raw datasets to a structured database clarified the relational architecture of the project. Assigning unique crisis identifiers and normalizing related tables improved query precision and analytical flexibility. This process also reinforced the importance of reproducibility; by separating schema definition, data loading, and analysis, we ensured that the workflow can be regenerated consistently across team members.
+
+Exploratory findings suggest that humanitarian severity alone does not fully explain variation in media attention. This insight refines the direction of the project from descriptive imbalance toward identifying measurable predictors of newsworthiness.
+
+Next steps include formal correlation testing, regression modeling to evaluate explanatory variables, and integration of framing proportions to assess whether geopolitical or humanitarian narratives influence coverage intensity. These analyses will move the project from exploratory assessment to structured hypothesis evaluation.

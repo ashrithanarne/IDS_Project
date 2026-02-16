@@ -1,0 +1,6 @@
+## **Data Exploration**
+Exploratory analysis examined how media coverage varies across crises and whether it aligns with measurable humanitarian indicators. Using derived metrics such as coverage_per_day, we assessed the distribution of media attention and observed substantial variation across crises, indicating uneven allocation of reporting intensity.
+
+To evaluate alignment with crisis severity, we analyzed relationships between coverage intensity and indicators including number of people affected, funding required, and crisis duration. Correlation estimates and scatter visualizations suggested that coverage does not increase proportionally with humanitarian magnitude. In several cases, crises of comparable scale received markedly different levels of media attention.
+
+Temporal analysis of monthly coverage revealed episodic concentration of reporting rather than steady attention across crisis duration. Outlet-level comparisons further showed institutional variation in coverage patterns. These exploratory findings informed our decision to focus subsequent analysis on identifying structural and framing-related factors that may explain media selectivity.
