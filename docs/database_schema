@@ -1,0 +1,14 @@
+// Humanitarian Media Database
+digraph {
+	crises [label="crises|crisis_id (PK)|crisis_name|start_date|fund_required|people_affected|crisis_days|raw_coverage" shape=record]
+	monthly_coverage [label="monthly_coverage|monthly_id (PK)|crisis_id (FK)|year_month|coverage_count" shape=record]
+	coverage_by_outlet [label="coverage_by_outlet|coverage_id (PK)|crisis_id (FK)|outlet_name|coverage_count" shape=record]
+	framing [label="framing|framing_id (PK)|crisis_id (FK)|framing_type|raw_count" shape=record]
+	sentiment [label="sentiment|sentiment_id (PK)|crisis_id (FK)|entity|sentiment" shape=record]
+	victim_causor [label="victim_causor|vc_id (PK)|crisis_id (FK)|group|framing_type" shape=record]
+	crises -> monthly_coverage
+	crises -> coverage_by_outlet
+	crises -> framing
+	crises -> sentiment
+	crises -> victim_causor
+}
