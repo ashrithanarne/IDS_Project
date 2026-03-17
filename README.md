@@ -1,123 +1,42 @@
-# IDS_Project
-Data Science assignment
+# Humanitarian Media Coverage Analysis
 
-Problem statement 1:
-Which socioeconomic factors (income, employment, education) impact mental health the most, and can we predict high-risk neighborhoods for mental health issues using these factors?
-1)	What type of problem would you need to solve?<br>
-This is a mixed problem: predictive, classification, exploratory. We need to find correlations between income, employment, education, and mental health outcomes and then classify the neighborhood into high-risk/low risk based on this correlation and using these patterns we also can forecast the mental health outcomes of the neighborhood.
-2)	How will you obtain the data?<br>
-  Mental Health Outcomes:<br>
-•	CDC BRFSS (Behavioral Risk Factor Surveillance System) or local health department surveys.<br>
- Socioeconomic Data:<br>
-•	U.S. Census Bureau, American Community Survey (ACS): income, employment, education, poverty rates, demographics.<br>
+## **Project Overview**
+This project investigates how global humanitarian crises are covered in the media. Using publicly available datasets, we analyze the volume, distribution, and framing of news coverage across multiple crises, outlets, and time periods. The aim is to assess whether media attention aligns with measurable humanitarian indicators such as number of people affected, funds required, and crisis duration, and to explore the structural and narrative factors influencing coverage patterns.
 
-3)	What is the central question you want to answer using data?<br>
-Which socioeconomic factors (income, employment, education) are most strongly associated with poor mental health in urban neighborhoods, and can we predict which neighborhoods are at highest risk?
-4)	Why is this question important within its context?<br>
-Mental health challenges are rising globally, especially in urban environments. This project can help identify the neighborhoods that are affected and can forecast the crisis earlier so the administration team can plan the resources more efficiently.
+## **Data Sources**
+- **Crises data:** Overview of humanitarian crises including start date, funds required, people affected, and coverage metrics.  
+- **Monthly coverage:** Time-series data showing the number of articles published per crisis per month.  
+- **Outlet coverage:** Number of articles published per media outlet for each crisis.  
+- **Framing data:** Classification of articles based on narrative frame (e.g., humanitarian, economic, geopolitical).  
+- **Sentiment data:** Sentiment of media mentions per entity within crisis coverage.  
+- **Victim/Causor data:** Mentions of victims or causative actors in each article.
 
-5)	What makes this project unique compared to other similar projects?<br>
-Focuses specifically on socioeconomic determinants. Neighborhood-level analysis ensures interventions are targeted, not just city-wide averages.
+## **Project Structure**
+- **`schema.sql`** – Defines the relational database structure, including tables for crises, monthly coverage, outlet coverage, framing, sentiment, and victim/causor.  
+- **`milestone1.ipynb`** – Notebook containing data loading, database creation, and exploratory data analysis.  
+- **`data/raw/`** – Folder containing all input CSV datasets.  
+- **`humanitarian.db`** – SQLite database created from the raw datasets.  
 
-6)	What variables are required, and why are they essential?<br>
-We need income, employment, education and demographic data to do the analysis for this project .
+## **Exploratory Analysis**
+- **Total Media Coverage:** Bar plot ranking crises by total article count. Gaza has the highest coverage, followed by Ukraine, Syria, and Afghanistan. Chad has the lowest coverage.  
+- **Monthly Coverage Trends:** Line plot of articles per crisis over time. Syria and Yemen have long-running attention; Gaza shows high recent spikes.  
+- **Coverage by Outlet:** Horizontal bar plot of total articles per media outlet. **Al Jazeera** leads significantly, followed by Reuters, then NYT, with a steady decline thereafter.  
+- **Sentiment per Entity:** Analysis of positive, neutral, and negative mentions per entity across crises. Hamas is predominantly negative; Zelensky predominantly positive.  
+- **Framing Distribution:** Bar plots showing the number of articles per narrative frame. Humanitarian framing dominates; legal framing has the least coverage.  
+- **Crisis Summary Table:** Overview of all crises with metrics including raw coverage, coverage per day, coverage per funding, and coverage per people affected.
 
-7)	What would a meaningful or successful answer look like?<br>
+## **Reflection and Next Steps**
+- Data exploration highlighted uneven media attention across crises and outlets, with coverage not fully explained by crisis severity metrics.  
+- Structured database design improved reproducibility and analytical flexibility.  
+- **Next steps** include correlation and regression analyses to identify predictors of media coverage, integration of framing and sentiment into modeling, and investigation of outlet-specific reporting patterns.
 
-•	Identification of which socioeconomic factors most strongly influence poor mental health.<br>
-•	Clear visualizations and maps showing risk distribution across neighborhoods.
+## **How to Use**
+1. Clone the repository.  
+2. Ensure Python dependencies are installed: `pandas`, `numpy`, `sqlite3`, `matplotlib`, `seaborn`.  
+3. Run `milestone1.ipynb` to reproduce data loading, database creation, and exploratory visualizations.  
+4. Extend analysis in future sprints for hypothesis testing and predictive modeling.
 
-8)	Who would use the results, and how would they benefit?<br>
-•	City Planners: Decide where to invest in mental health facilities or community programs.
-•	Public Health Officials: Target mental health initiatives where the need is greatest.
-9)	Is this problem realistic, given typical resource constraints?<br>
-Yes. Datasets are publicly available, Analysis can be done with python and modeling is possible
-
-
-
-Project statement 2: 
-
-Media coverage vs real-world humanitarian severity
-
-We are exploring whether global media attention reflects the actual severity of humanitarian crises, or whether some crises are systematically underreported.
-
-1.What type of problem would you need to solve?<br>
-This project focuses on data exploration, and we try to examine the patterns in media coverage and humanitarian crisis severity. trying to compare trends, distributions, and mismatches.
-
-2.How will you obtain the data?<br>
-We’ll use two datasets: one from GDELT, showing news coverage of crises, and one from humanitarian sources, showing the actual impact, such as affected populations or fatalities.
-
-3.What is the central question you want to answer using data?<br>
-This project is for NGOs, journalists, and policymakers who want to understand which crises need more attention and resources.
-
-4.Why is this question important within its context?<br>
-It can help highlight underreported crises, guiding media and aid organizations to focus on places that need it most.
-
-5.What makes this project unique compared to other similar projects?<br>
-To compare media attention and real-world impact, identify mismatches, and uncover crises that may be overlooked.
-
-6.What variables are required, and why are they essential?<br>
-
-•  Media coverage – article counts and mentions to see how much attention each crisis gets.<br>
-•  Crisis impact – people affected, fatalities, or displaced to show real severity.<br>
-•  Identifiers – country, region, and date to link the two datasets.
-
-
-7.What would a meaningful or successful answer look like?<br>
-A successful answer would show which crises get enough media coverage and which are underreported. We’ll use patterns, trends, and simple visualizations to highlight mismatches and provide insights that could help journalists or aid organizations focus on the most serious crises.
-
-
-8.Who would use the results, and how would they benefit?<br>
-The results would be useful for journalists, NGOs, and policymakers. They could use the insights to spot serious crises that are underreported, prioritize coverage or aid, and make more informed decisions about where attention and resources are needed most.
-
-9.Is this problem realistic, given typical resource constraints?<br>
-Yes, this project is realistic. The datasets are publicly available, and we can work with them in Python using standard tools. The main challenge is handling large data, but we can focus on a subset of crises or a specific time to make it manageable.
-
-
-We  chose Problem Statement 1 to proceed further 
-
-Heilmeier Catechism for problem statement 1 :
-
-1) What are you trying to do? Articulate your objectives using absolutely no jargon.<br>
-We want to figure out how money, jobs, and education affect people’s mental health in different neighborhoods. Using this information, we want to predict which neighborhoods are most at risk of mental health problems so resources and support can be targeted effectively.
-2) How is it done today, and what are the limits of current practice?<br>
-      Today the Decisions based on mental health are reactive instead of proactive. There is limited use of predictive models to guide interventions.
-3) What is new in your approach, and why do you think it will be successful?<br>
-     Combine public mental health survey data with socioeconomic data at the neighborhood level. The project will be successful because the neighborhood-level, data-driven approach is more precise than today’s city-wide averages.
-
-4) Who cares? If you are successful, what difference will it make?<br>
-Who cares: City planners, public health officials, NGOs, and community organizations.
-Difference it will make:<br>
-•	Resources like mental health programs or social support can be targeted to neighborhoods most in need.<br>
-•	Improves mental health outcomes, reduces stress-related problems, and informs evidence-based urban planning.<br>
-
-5) What are the risks?<br>
-•	Data limitations: survey or socioeconomic data might be incomplete or outdated and privacy concerns.<br>
-•	we may need to oversimplify complex mental health factors to make it easier for prediction since each person and the spectrum of mental issues are different.<br>
-
-6) How much will it cost?<br>
-Low cost: mostly involves public datasets and open-source tools<br>
-
-7) How long will it take?<br>
-This project could realistically take us 2-3 months considering all the data exploration, acquisition and cleaning steps, since the data is huge.<br>
-
-8) What are the mid-term and final "exams" to check for success?<br>
-	Mid-term checks:Data collection, data cleaning and data merging. Initial regression or classification models run successfully.<br>
-	Final checks: <br>
-•	Predictive model identifies high-risk neighborhoods.<br>
-•	Feature importance analysis identifies key socioeconomic predictors (income, employment, education).<br>
-•	Visualizations (maps, charts) clearly highlight risk areas and can guide decision-makers.<br>
-
-Git hub Repo:<br>
-https://github.com/ashrithanarne/IDS_Project
-
- 
-  
-
-
-
-
-
-
-
-
+## **Notes**
+- All numerical indicators (funds required, people affected) are normalized/scaled from the source datasets; original transformation methods are not provided.  
+- Observations are based on pre-processed datasets; missing values and anomalies are minimal due to source standardization.  
+- The project focuses on descriptive patterns and exploratory insights; causal inferences require further analysis in subsequent sprints.

@@ -1,6 +1,16 @@
 ## **Reflection and Next Steps**
-The transition from raw datasets to a structured database clarified the relational architecture of the project. Assigning unique crisis identifiers and normalizing related tables improved query precision and analytical flexibility. This process also reinforced the importance of reproducibility; by separating schema definition, data loading, and analysis, we ensured that the workflow can be regenerated consistently across team members.
 
-Exploratory findings suggest that humanitarian severity alone does not fully explain variation in media attention. This insight refines the direction of the project from descriptive imbalance toward identifying measurable predictors of newsworthiness.
+### **Reflection**
+- Transitioning from raw datasets to a structured relational database clarified the project’s architecture and improved analytical precision.  
+- Assigning unique crisis identifiers and linking related tables (monthly coverage, outlet coverage, framing, sentiment, victim/causor) ensured consistent reference across all analyses.  
+- Exploratory analysis revealed that humanitarian severity alone (funds required, people affected, crisis duration) does not fully explain media coverage variation.  
+- Outlet-level insights show that while **Al Jazeera** dominates coverage, the rest of the outlets decline steadily, suggesting institutional patterns rather than extreme concentration.  
+- Temporal analysis highlighted that some crises (e.g., Gaza, Syria, Yemen) receive sustained attention while others have brief spikes, indicating episodic reporting behavior.  
+- These findings reinforce the importance of looking beyond descriptive statistics and focusing on structural, framing, and narrative-based predictors of media selectivity.
 
-Next steps include formal correlation testing, regression modeling to evaluate explanatory variables, and integration of framing proportions to assess whether geopolitical or humanitarian narratives influence coverage intensity. These analyses will move the project from exploratory assessment to structured hypothesis evaluation.
+### **Next Steps**
+- Conduct formal correlation analyses and regression modeling to evaluate whether crisis severity metrics predict media attention.  
+- Integrate framing and sentiment proportions to assess how geopolitical, humanitarian, and other narrative frames influence coverage intensity.  
+- Examine outlet-specific reporting patterns to understand institutional biases in coverage.  
+- Identify crisis-level features (e.g., duration, severity, number of affected groups) that correlate with peaks in media attention over time.  
+- Expand analysis to include hypothesis-driven testing, moving the project from exploratory assessment to evidence-based evaluation of factors shaping newsworthiness.
