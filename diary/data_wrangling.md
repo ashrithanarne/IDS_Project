@@ -1,7 +1,25 @@
 ## Data Wrangling Process and Challenges
 
-During this phase, we focused on preparing a clean and comprehensive dataset for analysis. Our main tasks included validating the data, handling missing or duplicate entries, and creating features that could capture meaningful patterns in media coverage.
+The main goal of this phase was to prepare a clean and structured dataset ready for
+modeling. We started from the relational tables built in Milestone 1 and worked through
+validation, feature engineering, and merging everything into a single master table.
 
-We calculated ratios for framing types, explored outlet concentration by identifying the top three outlets per crisis, and merged all relevant tables into a master dataset. These steps helped us ensure consistency and completeness, while also making the dataset ready for correlation and modeling analysis.
+For feature engineering, we kept the framing ratios and outlet concentration ideas from
+our earlier planning and expanded on them. We added time-based features by calculating
+how many months had passed since each crisis started, and flagged the first three months
+as the onset period since EDA showed that coverage spikes sharply at the beginning of
+a crisis and drops off quickly after.
 
-While most of the data was already structured, we noticed that some columns, like framing and victim causes, were only available for a subset of crises. To account for this, we made careful decisions on how to handle missing data without skewing results. This process reinforced the importance of feature engineering and thoughtful data preparation in building a strong foundation for modeling.
+We also computed a post-onset ratio for each crisis, which captures how much of the
+initial coverage spike is retained over time. Some crises like Syria maintain relatively
+steady attention while others collapse to near zero after the first few months, and this
+feature helps the model pick up on that difference.
+
+One recurring challenge was the partial availability of framing, sentiment, and victim
+data. These are only present for Gaza and Ukraine, so we had to fill zeros for the
+remaining crises and be clear about that limitation. We kept three framing ratio columns
+in the final dataset since they still add signal for the two crises that have them,
+but we noted that their predictive value is limited across the full dataset.
+
+The master table came out at the monthly level, giving us a dataset with enough rows
+for proper train/test evaluation in the modeling stage.
