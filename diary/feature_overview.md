@@ -1,7 +1,22 @@
 ## Feature Overview and Correlation Analysis
 
-After completing the data wrangling, we conducted a feature overview and correlation analysis on the master dataset. This helped us understand relationships between variables, such as coverage, framing ratios, and outlet concentration.
+After building the master dataset, we ran a correlation analysis to understand how
+each feature relates to the target variable, log-transformed monthly coverage.
 
-Through the analysis, we identified which features were likely to have predictive value and which were less informative. For example, the ratios of framing types gave us insights into how different crises were reported, while the outlet concentration revealed patterns of reporting bias among the top media sources.
+The strongest positive correlation came from fund_required, which was somewhat
+surprising since we expected time-based features to dominate. It seems crises with
+larger internationally recognized funding needs also tend to attract more monthly
+reporting. The is_onset flag was also positively correlated, confirming the spike
+pattern we saw in EDA.
 
-This step also confirmed that our master dataset was structured correctly, and allowed us to plan our modeling approach more confidently. Overall, this phase highlighted the importance of careful preprocessing and feature assessment before moving to predictive modeling.
+On the negative side, crisis_days had the strongest negative correlation overall.
+Longer-running crises receive less coverage per month, which makes sense because
+media attention tends to fade as a crisis becomes old news. months_since_start and
+top3_outlet_ratio were also negative, with the outlet concentration finding being
+particularly interesting -- crises where a few outlets dominate seem to accumulate
+fewer total articles than those covered by a wider range of sources.
+
+The framing ratios showed moderate positive correlations with log coverage, but
+because they are only non-zero for two crises, we treat their signal carefully.
+
+Based on this analysis, we finalized the feature set and moved into modeling.

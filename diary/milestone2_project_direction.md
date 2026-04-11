@@ -1,11 +1,21 @@
 ## Understanding the Project Direction
 
-At the beginning of Milestone 2, we revisited the outcomes from Milestone 1 to better understand how to move forward. In Sprint 1, we performed exploratory analysis and identified key patterns, such as differences in media coverage across crises and how coverage changes over time.
+At the start of Milestone 2, we went back through our Milestone 1 findings to figure
+out where to go next. The exploratory analysis gave us a solid picture of which crises
+got the most coverage and how reporting varied across outlets and over time, but it was
+mostly descriptive. Milestone 2 pushes us toward actually modeling these patterns and
+explaining what drives them.
 
-While these observations gave us a good starting point, we realized that Milestone 2 requires a more structured and analytical approach. Instead of focusing only on descriptive insights, the goal now is to prepare the data in a way that supports deeper analysis and modeling.
+One thing that became clear early on is that the data has some gaps. Framing and
+sentiment information is only available for Gaza and Ukraine, which limits how we
+can use those features across the full dataset. We had to think carefully about how
+to include them without introducing a lot of zeros that could mislead the model.
 
-During this phase, we also noticed that some features, such as framing and sentiment, are not available for all crises. This required us to think carefully about how to handle partial data and how to incorporate these features meaningfully without affecting the overall consistency of the dataset.
+We also realized that the way we structure the dataset matters a lot for what kind
+of modeling we can do. Monthly coverage data gives us a much richer view of how
+attention changes over time within each crisis, and building the master table at that
+level opened up more analytical possibilities than working at the crisis level alone.
 
-As a result, we shifted our focus toward building a clean and unified dataset that combines relevant information from multiple sources. This would allow us to explore relationships between variables more effectively in the next stages.
-
-Moving forward, our approach is to identify and construct meaningful features that can help explain variations in media coverage, and to prepare the data for modeling and further analysis.
+Our overall direction for this milestone is to engineer features that capture real
+patterns in the data, build models that can explain coverage variation, and present
+the findings in a way that is clear and well-supported.
