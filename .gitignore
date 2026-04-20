@@ -1,3 +1,5 @@
 *.db
 __pycache__/
 .ipynb_checkpoints/
+# Virtual Environment
+venv/
