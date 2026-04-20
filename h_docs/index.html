@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Humanitarian Media Coverage Analysis</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 750px; margin: 60px auto; padding: 0 30px; color: #222; }
+    h1 { color: #1a3a5c; font-size: 26px; margin-bottom: 6px; }
+    h2 { color: #2c4f6e; font-size: 16px; font-weight: normal; margin-top: 0; }
+    .meta { color: #666; font-size: 13px; margin-bottom: 30px; }
+    .btn { display: inline-block; background: #1a3a5c; color: white; padding: 12px 24px;
+           text-decoration: none; border-radius: 4px; font-size: 14px; margin-top: 10px; }
+    .btn:hover { background: #2c4f6e; }
+    p { line-height: 1.7; }
+    hr { border: none; border-top: 1px solid #ddd; margin: 30px 0; }
+    .section-title { font-size: 13px; font-weight: bold; letter-spacing: 1px;
+                     text-transform: uppercase; color: #1a3a5c; margin-bottom: 8px; }
+  </style>
+</head>
+<body>
+
+  <h1>Does the World Notice?</h1>
+  <h2>Analyzing Media Coverage of Global Humanitarian Crises Through Data Science</h2>
+  <div class="meta">Ashritha Narne &amp; Nikhitha Nagabhyru &nbsp;|&nbsp; CAP5771 Introduction to Data Science &nbsp;|&nbsp; University of Florida &nbsp;|&nbsp; April 2026</div>
+
+  <p>
+    This project investigates whether international media coverage of humanitarian crises aligns
+    with their measurable severity. Using a dataset of news articles spanning ten crises from 2009
+    to 2025, we apply exploratory analysis, feature engineering, and regression modeling to identify
+    predictors of monthly media attention. We find that coverage is driven more by the timing of
+    crises and geopolitical salience than by humanitarian scale.
+  </p>
+
+  <a class="btn" href="IDS_final_report.pdf" target="_blank">Read the Full Report (PDF)</a>
+
+  <hr>
+
+  <div class="section-title">Repository</div>
+  <p>
+    The full code, notebooks, and data pipeline are available on
+    <a href="https://github.com/ashrithanarne/IDS_Project">GitHub</a>.
+  </p>
+
+  <hr>
+
+  <div class="section-title">Key Findings</div>
+  <p>
+    Gaza received 83 times more articles per person affected than Sudan, despite Sudan having nine
+    times more people in need. Regression modeling on 734 monthly observations shows that crisis
+    duration is the strongest negative predictor of coverage, while funding requirements are the
+    strongest positive predictor. The number of people affected shows little predictive power.
+  </p>
+
+</body>
+</html>
