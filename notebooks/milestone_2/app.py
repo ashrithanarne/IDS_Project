@@ -417,27 +417,6 @@ elif section == "5 · Framing & Sentiment":
             plt.tight_layout()
             st.pyplot(fig)
 
-    st.divider()
-    st.markdown("**Entity Sentiment**")
-    if not sentiment_df.empty:
-        sent_entity_col = "entity_name" if "entity_name" in sentiment_df.columns else sentiment_df.columns[0]
-        sent_score_col  = "sentiment_score" if "sentiment_score" in sentiment_df.columns else sentiment_df.select_dtypes("number").columns[0]
-
-        ent = sentiment_df.groupby(sent_entity_col)[sent_score_col].mean().sort_values()
-        fig, ax = plt.subplots(figsize=(8, 4))
-        colors_s = [SENT_PAL["negative"] if v < 0 else SENT_PAL["positive"] for v in ent.values]
-        ax.barh(ent.index, ent.values, color=colors_s, edgecolor="white")
-        ax.axvline(0, color="#333", linewidth=0.8)
-        ax.set_title("Average Entity Sentiment Score")
-        ax.set_xlabel("Sentiment Score  (negative = left, positive = right)")
-        plt.tight_layout()
-        st.pyplot(fig)
-        st.info(
-            "**Insight:** Western-aligned actors (Zelensky) are the only net-positive figures; "
-            "opposing actors (Hamas, Putin) are overwhelmingly negative — a structural feature "
-            "of the outlets in this dataset."
-        )
-
 # ═══════════════════════════════════════════════════════════════════════════════
 # 6 · Model Results
 # ═══════════════════════════════════════════════════════════════════════════════
